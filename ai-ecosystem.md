@@ -8,7 +8,7 @@ Not all of the tools have been tested, use at your own risk.
 
 | Platform                | Description                                                                                                        | Link                           |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Aleph Alpha             | European indistry AI platform that aligns with European values of data privacy and technological sovereignty.       | [Aleph Alpha](https://aleph-alpha.com/) |
+| Aleph Alpha             | European industry AI platform that aligns with European values of data privacy and technological sovereignty.       | [Aleph Alpha](https://aleph-alpha.com/) |
 | Alibaba Cloud AI        | Offers cloud computing services and AI tools for developers and businesses.                                        | [Alibaba Cloud AI](https://www.alibabacloud.com/) |
 | Stanford Alpaca         | A lightweight, performant, and easy-to-use text-to-code API that utilizes the power of large language models.      | [Standford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html) |
 | Amazon AI               | Offers a suite of machine learning services and tools on the AWS cloud platform.                                   | [Amazon AI](https://aws.amazon.com/de/ai/) |
