@@ -72,21 +72,21 @@ Commercial and free but commercial text generators
 
 | Provider | Description | Link |
 |---|---|---|
+| Anyword | An AI writer that generates high-quality content and copy of all kinds, including long-form articles, blog posts, ad copy, social media posts, and more. | [Anyword](https://anyword.com/) |
+| ChatPDF | A tool that allows for interactive conversations with uploaded PDFs, making it easier to understand and annotate documents. | [ChatPDF](https://www.chatpdf.com/) |
+| Compose.ai | An AI writing assistant that helps you write faster by completing your sentences and offering suggestions. | [Compose.ai]() |
+| Headlime | A content generation tool that uses AI to create high-converting marketing copy for various platforms and purposes. | [Headlime] |
+| HyperWrite AI | A suite of AI writing tools that assist with creating content, editing, and more, to improve writing efficiency. | [HyperWrite AI](https://www.hyperwriteai.com/) |
+| Jenni AI | An AI-powered writing assistant that helps with academic writing, offering features like research assistance and citation formatting. | [Jenni AI](https://jenni.ai/) |
+| Laika | An AI writing tool that provides virtual companions to help with creative writing and brainstorming. | [Laika](https://www.writewithlaika.com/) |
+| Lavender | An AI email assistant that helps you write better emails faster by analyzing your writing and providing real-time suggestions. | [Lavender]() |
+| Lex | An AI-backed word processor that offers a premium writing experience with features like AI feedback and live collaboration. | [Lex](https://lex.page/) |
+| Moonbeam | An AI writing assistant specifically trained to help with long-form content such as essays, stories, articles, and blogs. | [Moonbeam](https://www.gomoonbeam.com/) |
+| Postwise | An AI tool that uses AI to write, schedule, and grow your Twitter and LinkedIn accounts with engaging content. | [Postwise](https://postwise.ai/) |
+| Quillbot | An AI-powered paraphrasing tool that helps you rephrase text in various styles and integrates with writing tools you already use. | [Quillbot](https://quillbot.com/) |
+| Writesonic | An AI text generator that creates SEO-friendly content for blogs, ads, and more, with a variety of writing tools. | [Writesonic]() |
+| Yarnit | A platform that uses AI to help you craft engaging stories and content with ease. | [Yarnit]() |
 
-| Writesonic | An AI text generator that assists with creating digital marketing content. | [Writesonic](https://writesonic.com/) |
-+ https://www.chatpdf.com/
-+ https://www.writewithlaika.com/
-+ https://quillbot.com/
-+ https://postwise.ai/
-+ https://jenni.ai/
-+ https://www.hyperwriteai.com/
-+ https://www.gomoonbeam.com/
-+ https://anyword.com/
-+ https://lex.page/
-+ https://www.lavender.ai/
-+ https://www.compose.ai/
-+ https://www.yarnit.app/
-+ https://headlime.com/
 
 ## Coding Assistance
 
