@@ -12,7 +12,7 @@ Not all of the tools have been tested, use at your own risk.
 | Alpaca (Stanford Alpaca)| A lightweight, performant, and easy-to-use text-to-code API that utilizes the power of large language models.      | [Standford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html) |
 | Amazon AI               | Offers a suite of machine learning services and tools on the AWS cloud platform.                                   | Amazon AI |
 | Anthropic               | An AI safety and research company working to build reliable, interpretable, and steerable AI systems.              | Anthropic |
-| Azure AI Studio         | Provides a collaborative environment for building, training, and deploying machine learning models.                | Azure AI Studio |
+| Azure AI Studio         | Provides a collaborative environment for building, training, and deploying machine learning models.                | [Azure AI Studio](https://ai.azure.com/) |
 | Civit AI                | A cloud-based AI platform that provides access to a variety of AI tools and services, including pre-trained models, datasets, and training tools. | [Civit AI](https://civitai.com/)  |
 | Cohere                  | Enables developers and enterprises to build LLM-powered applications with a focus on ease-of-use and data privacy. | Cohere |
 | Fireworks               | A cloud-based platform for building and deploying AI applications.                                                 | [Fireworks](https://fireworks.ai/)  |
@@ -30,8 +30,8 @@ Not all of the tools have been tested, use at your own risk.
 | OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | OpenAI |
 | Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | [Paperspace](https://www.paperspace.com/) |
 | Replicate               | A platform for sharing and running machine learning experiments.                                                   | [Replicate](https://replicate.com/) |
-| Salesforce Einstein     | Integrates AI capabilities within Salesforce to enhance customer relationship management.                          | Salesforce Einstein |
-| SAP Leonardo            | A digital innovation platform that includes machine learning, IoT, and analytics.                                  | SAP Leonardo |
+| Salesforce Einstein     | Integrates AI capabilities within Salesforce to enhance customer relationship management.                          | [Salesforce](https://www.salesforce.com/de/artificial-intelligence/) |
+| SAP AI Core             | A digital innovation platform that includes machine learning, IoT, and analytics.                                  | [SAP]() |
 
 ## Selected Models
 
