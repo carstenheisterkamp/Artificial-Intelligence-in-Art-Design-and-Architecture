@@ -53,7 +53,7 @@ Opern Source training datasets.
 | Google Dataset Search | TBD | [Link](https://datasetsearch.research.google.com/)|
 | Laion | TBD | [Link](https://laion.ai/) |
 | Laion Aesthetic| TBD | [Link](https://github.com/LAION-AI/laion-datasets/tree/main/laion-aesthetic) |
-| UCI ML Repository | UC Irvine Machine Learning Repository |https://archive.ics.uci.edu/|
+| UCI ML Repository | UC Irvine Machine Learning Repository |[Link](https://archive.ics.uci.edu/)|
 ||||
 
 ## Open Data
