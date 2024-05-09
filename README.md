@@ -12,6 +12,6 @@ A collection of material and documents for my course about artificial intelligen
 
 ## Links
 
-| Link      | Description                                                              |
-|---        |---                                                                       |
-| AI Garden | An evergrowing list of general and design related AI tools and platforms |
+| Link      | Description                                                                   |
+|---        |---                                                                            |
+| [AI Ecosystem] | An evergrowing list of general and design related AI tools and platforms |
