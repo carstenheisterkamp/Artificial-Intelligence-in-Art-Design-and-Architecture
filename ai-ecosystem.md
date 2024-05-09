@@ -35,75 +35,6 @@ Not all of the tools have been tested, use at your own risk.
 | Salesforce Einstein     | Integrates AI capabilities within Salesforce to enhance customer relationship management.                          | Salesforce Einstein |
 | SAP Leonardo            | A digital innovation platform that includes machine learning, IoT, and analytics.                                  | SAP Leonardo |
 
-
-### AI Safety
-| Platform                | Description                                                                                                        | Link                           |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Anthropic               | An AI safety and research company working to build reliable, interpretable, and steerable AI systems.              | Anthropic |
-
-### Application Development
-| Platform                | Description                                                                                                        | Link                           |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Cohere                  | Enables developers and enterprises to build LLM-powered applications with a focus on ease-of-use and data privacy. | Cohere |
-
-### Business Solutions
-| Platform                | Description                                                                                                        | Link                           |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Salesforce Einstein     | Integrates AI capabilities within Salesforce to enhance customer relationship management.                          | Salesforce Einstein |
-| SAP Leonardo            | A digital innovation platform that includes machine learning, IoT, and analytics.                                  | SAP Leonardo |
-
-### Cloud Services
-| Platform                | Description                                                                                                        | Link                           |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Alibaba Cloud AI        | Offers cloud computing services and AI tools for developers and businesses.                                        | Alibaba Cloud AI |
-| Amazon AI               | Offers a suite of machine learning services and tools on the AWS cloud platform.                                   | Amazon AI |
-| Azure AI Studio         | Provides a collaborative environment for building, training, and deploying machine learning models.                | Azure AI Studio |
-| Civit AI                | A cloud-based AI platform that provides access to a variety of AI tools and services, including pre-trained models, datasets, and training tools. | Civit AI  |
-| Fireworks               | A cloud-based platform for building and deploying AI applications.                                                 | Fireworks  |
-| Microsoft AI            | Encompasses a range of AI products and services to empower organizations and developers.                           | Microsoft AI |
-| Mistral                 | A cloud-based platform for training and deploying AI models.                                                       | Mistral|
-| Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | Paperspace |
-
-### Community & Competitions
-| Platform                | Description                                                                                                        | Link                           |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Kaggle                  | A community of data scientists and machine learning practitioners who share datasets, compete in machine learning competitions, and collaborate on projects. | Kaggle  |
-
-### Community & Models
-| Platform                | Description                                                                                                        | Link                           |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Hugging Face            | A platform for sharing and using natural language processing (NLP) models and datasets.                            |Hugging Face |
-| Replicate               | A platform for sharing and running machine learning experiments.                                                   | Replicate |
-
-### Educational Tools
-| Platform                | Description                                                                                                        | Link                           |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Google Colab            | A free cloud-based Jupyter notebook environment that allows you to write and execute Python code using Google's computing resources. | Google Colab |
-
-### Hardware & Acceleration
-| Platform                | Description                                                                                                        | Link                           |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Intel Nervana AI        | Focused on accelerating deep learning applications.                                                                | Intel AI |
-| Nvidia AI               | A comprehensive suite of AI tools and resources, including GPUs, software, and training platforms.                 | Nvidia AI |
-| Nvidia Deep Learning AI | Provides GPU-accelerated deep learning tools and libraries.                                                        | Nvidia AI |
-
-### Machine Learning
-| Platform                | Description                                                                                                        | Link                           |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Azure AI Studio         | Provides a collaborative environment for building, training, and deploying machine learning models.                | Azure AI Studio |
-
-### Research & Development
-| Platform                | Description                                                                                                        | Link                           |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Alpaca (Stanford Alpaca)| A lightweight, performant, and easy-to-use text-to-code API that utilizes the power of large language models.      | Standford Alpaca |
-| Google AI               | Focuses on conducting research to advance AI and developing tools for real-world applications.                     | Google AI |
-| Meta AI                 | Dedicated to advancing AI through open research and innovation.                                                    | Meta AI |
-| OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | OpenAI |
-
-
-
-
-
 ## Selected Models
 
 | Model | Description | Link |
@@ -120,23 +51,29 @@ https://laion.ai/
 https://github.com/LAION-AI/laion-datasets/tree/main/laion-aesthetic
 
 ## Text Generators
+Commercial and free but commercial text generators
 
-| Platform | Description | Link |
+| Provider | Description | Link |
 |---|---|---|
-| Anakin.ai | An LLM from Anakin AI that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [Anakin.ai](https://anakin.ai/) |
-| Anthropic Claude | A large language model (LLM) from Anthropic that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [Anthropic Claude](https://www.anthropic.com/claude) |
+| Anakin.ai | An LLM from Anakin AI that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. |  [Anakin.ai](https://anakin.ai/) |
+| Anthropic Claude | A large language model (LLM) from Anthropic that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [Anthropic Claude](https://www.anthropic.com/claude)  |
 | BloombergGPT | An LLM from Bloomberg that is specifically designed for processing and generating financial news and information. | [BloombergGPT](https://bloomberg.com) |
-| ChatGPT Open AI | An LLM from OpenAI that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [ChatGPT Open AI](https://chat.openai.com/) |
+| ChatGPT Open AI | An LLM from OpenAI that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [ChatGPT Open AI](https://chat.openai.com/) | |
 | Google Gemini | An LLM from Google AI that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [Google Gemini](https://gemini.google.com/) |
 | Grok | An LLM from AI21 Labs that specializes in generating creative text formats like poems, code, scripts, musical pieces, email, letters, etc. | [Grok](https://grok.x.ai/) |
-| Langchain | An LLM from OpenAI that is specifically designed for processing and generating code. | [Langchain](https://www.langchain.com/) |
-| Llmsys | An open-source platform for developing and using large language models, providing various LLMs like GPT-3 and Jurassic-1. | [Llmsys](https://lmsys.org/) |
-| Microsoft Bing CoPilot | An AI-powered tool from Microsoft that helps programmers write code faster and more efficiently. | [Microsoft Bing CoPilot](https://www.bing.com/chat) |
-| Stability AI | An open-source platform for developing and using large language models, including their own LLM called Stable Diffusion. | [Stability AI](https://stability.ai/) |
+| Jasper | An AI text generator known for its marketing copy generation. | Jasper |
+| Langchain | An LLM from OpenAI that is specifically designed for processing and generating code. |[Langchain](https://www.langchain.com/) |
+| Llmsys | An open-source platform for developing and using large language models, providing various LLMs like GPT-3 and Jurassic-1. |  [Llmsys](https://lmsys.org/) |
+| Microsoft Bing CoPilot | An AI-powered tool from Microsoft that helps programmers write code faster and more efficiently. | Microsoft [Bing CoPilot](https://copilot.microsoft.com/) |
+| Stability AI | An open-source platform for developing and using large language models, including their own LLM called Stable Diffusion. |[Stability AI](https://stability.ai/)  |
 
 
 ## Writing Assistance
 
+| Provider | Description | Link |
+|---|---|---|
+
+| Writesonic | An AI text generator that assists with creating digital marketing content. | [Writesonic](https://writesonic.com/) |
 + https://www.chatpdf.com/
 + https://www.writewithlaika.com/
 + https://quillbot.com/
