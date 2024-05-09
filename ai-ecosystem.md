@@ -54,6 +54,12 @@ Opern Source training datasets.
 | Laion | TBD | [Link](https://laion.ai/) |
 | Laion Aesthetic| TBD | [Link](https://github.com/LAION-AI/laion-datasets/tree/main/laion-aesthetic) |
 | UCI ML Repository | UC Irvine Machine Learning Repository |[Link](https://archive.ics.uci.edu/)|
+https://huggingface.co/stablediffusionapi/architecturerealmix
+https://huggingface.co/spaces/tonyassi/sketch-to-fashion-design
+https://huggingface.co/stablediffusionapi/product-design
+
+https://huggingface.co/ahmed-naseer/designgen-23k-25k
+
 ||||
 
 ## Open Data
