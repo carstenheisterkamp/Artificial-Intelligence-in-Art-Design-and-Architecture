@@ -6,8 +6,6 @@ Not all of the tools have been tested, use at your own risk.
 
 ## Platforms and Communities
 
-## General AI
-
 | Platform                | Description                                                                                                        | Link                           |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
 | Alibaba Cloud AI        | Offers cloud computing services and AI tools for developers and businesses.                                        | Alibaba Cloud AI |
