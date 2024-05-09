@@ -8,7 +8,7 @@ Not all of the tools have been tested, use at your own risk!
 
 ### Platforms and Communities
 
-| Plattform/Community | Beschreibung | Link |
+| Plattform | Beschreibung | Link |
 |---|---|---|
 | Alpaca | A lightweight, performant, and easy-to-use text-to-code API that utilizes the power of large language models. | [Standford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html) |
 | Civit AI | A cloud-based AI platform that provides access to a variety of AI tools and services, including pre-trained models, datasets, and training tools. | [Civit AI](https://civitai.com/) |
