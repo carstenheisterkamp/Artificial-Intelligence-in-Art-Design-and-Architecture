@@ -40,10 +40,14 @@ Not all of the tools have been tested, use at your own risk.
 
 | Model | Description | Link |
 |---|---|---|
+|||[Link](https://mistral.ai/news/mixtral-8x22b/)|
 
-+ https://mistral.ai/news/mixtral-8x22b/
 + https://huggingface.co/facebook/opt-350m
 + https://huggingface.co/CompVis/stable-diffusion-v1-4
++ https://huggingface.co/stablediffusionapi/architecturerealmix
++ https://huggingface.co/spaces/tonyassi/sketch-to-fashion-design
++ https://huggingface.co/stablediffusionapi/product-design
++ https://huggingface.co/ahmed-naseer/designgen-23k-25k
 
 ## Training Data
 Opern Source training datasets.
@@ -54,12 +58,6 @@ Opern Source training datasets.
 | Laion | TBD | [Link](https://laion.ai/) |
 | Laion Aesthetic| TBD | [Link](https://github.com/LAION-AI/laion-datasets/tree/main/laion-aesthetic) |
 | UCI ML Repository | UC Irvine Machine Learning Repository |[Link](https://archive.ics.uci.edu/)|
-https://huggingface.co/stablediffusionapi/architecturerealmix
-https://huggingface.co/spaces/tonyassi/sketch-to-fashion-design
-https://huggingface.co/stablediffusionapi/product-design
-
-https://huggingface.co/ahmed-naseer/designgen-23k-25k
-
 ||||
 
 ## Open Data
