@@ -1,12 +1,21 @@
-# AI Garden
-An evergrowing curated but currently unsorted list of AI tools and libraries.
+# AI Ecosystem
+A curated evergrowing list of AI tools, platforms and libraries.
 
 ## Disclaimer
-Not all of the tools have been tested, use at your own risk!
+Not all of the tools have been tested, use at your own risk.
 
-## Links
+## Platforms and Communities
 
-### Platforms and Communities
+## General AI
+
+
+
+Google AI https://ai.google/
+Facebook AI https://ai.meta.com/meta-ai/
+IBM https://www.ibm.com/de-de/artificial-intelligence
+Microsoft https://www.microsoft.com/de-de/ai
+Microsoft Azure AI Studio https://ai.azure.com/
+Open AI https://openai.com
 
 | Plattform | Beschreibung | Link |
 |---|---|---|
@@ -24,13 +33,22 @@ Not all of the tools have been tested, use at your own risk!
 
 ## Selected Models
 
+| Model | Description | Link |
+|---|---|---|
+
 + https://mistral.ai/news/mixtral-8x22b/
 + https://huggingface.co/facebook/opt-350m
 + https://huggingface.co/CompVis/stable-diffusion-v1-4
 
-### Text Generators
+## Selected Datasets
+| Model | Description | Link |
+|---|---|---|
 
-| Platform/Community | Description | Link |
+https://github.com/LAION-AI/laion-datasets/tree/main/laion-aesthetic
+
+## Text Generators
+
+| Platform | Description | Link |
 |---|---|---|
 | Anakin.ai | An LLM from Anakin AI that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [Anakin.ai](https://anakin.ai/) |
 | Anthropic Claude | A large language model (LLM) from Anthropic that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [Anthropic Claude](https://www.anthropic.com/claude) |
@@ -44,7 +62,7 @@ Not all of the tools have been tested, use at your own risk!
 | Stability AI | An open-source platform for developing and using large language models, including their own LLM called Stable Diffusion. | [Stability AI](https://stability.ai/) |
 
 
-### Writing Assistance
+## Writing Assistance
 
 + https://www.chatpdf.com/
 + https://www.writewithlaika.com/
@@ -60,7 +78,7 @@ Not all of the tools have been tested, use at your own risk!
 + https://www.yarnit.app/
 + https://headlime.com/
 
-### Coding Assistance
+## Coding Assistance
 
 + CodeLlama https://codellama.dev/
 + GitHub CoPilot https://copilot.microsoft.com/
@@ -75,14 +93,14 @@ Not all of the tools have been tested, use at your own risk!
 + https://aws.amazon.com/codewhisperer/
 + https://www.safurai.com/
 
-### Dev Tools
+## Dev Tools
 
 + https://circleci.com/
 + https://www.framer.com/features/ai/
 + https://coderabbit.ai/
 + Fronty Imge to Html https://fronty.com/
 
-### Image Generators
+## Image Generators
 
 + https://www.alpacaml.com/
 + Adobe Firefly https://www.adobe.com/de/products/firefly.html
@@ -112,14 +130,14 @@ Not all of the tools have been tested, use at your own risk!
 + https://www.prompthunt.com/
 + https://www.craiyon.com/
 
-### Image Editing
+## Image Editing
 
 + https://skylum.com/de/luminar
 + https://www.topazlabs.com/
 + https://picwish.com/
 + https://letsenhance.io/
 
-### Design
+## Design
 
 + https://looka.com
 + https://designs.ai
@@ -129,11 +147,11 @@ Not all of the tools have been tested, use at your own risk!
 + https://www.beautiful.ai
 + https://tome.app
 
-### UX Design
+## UX Design
 
 https://www.usegalileo.ai/
 
-### Fashion
+## Fashion
 
 + https://thenewblack.ai/
 + https://lalaland.ai/
@@ -143,7 +161,7 @@ https://www.usegalileo.ai/
 + https://www.ablo.ai/
 + https://www.ca.la/
 
-### Audio Generators
+## Audio Generators
 
 + OpenAI MuseNet https://openai.com/research/musenet
 + Suno Song generation https://suno.com/
@@ -163,7 +181,7 @@ https://www.usegalileo.ai/
 + https://boomy.com/
 + https://dreamtonics.com/synthesizerv/
 
-### Text to speech
+## Text to speech
 
 + https://www.assemblyai.com/
 + https://play.ht/
@@ -193,7 +211,7 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 + https://audiomodern.com/shop/plugins/playbeat-3/
 + https://moises.ai/
 
-### Video Generators
+## Video Generators
 
 + RunwayML https://runwayml.com/
 + Stability AI https://stability.ai/
@@ -202,13 +220,13 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 + https://www.synthesia.io/
 + https://www.steve.ai/
 
-### Video Editing
+## Video Editing
 
-### 3D Modelling
+## 3D Modelling
 
 + 3D AIStudio https://www.3daistudio.com/
 
-### Marketing
+## Marketing
 
 + AdCreative https://adcreative.ai/
 + https://www.visme.co/
@@ -243,17 +261,7 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 + https://www.phind.com/
 + https://exa.ai/
 
-## General AI
-
-Amazon AI https://aws.amazon.com/ai/
-Google AI https://ai.google/
-Facebook AI https://ai.meta.com/meta-ai/
-IBM https://www.ibm.com/de-de/artificial-intelligence
-Microsoft https://www.microsoft.com/de-de/ai
-Microsoft Azure AI Studio https://ai.azure.com/
-Open AI https://openai.com
-
-## Digitale Tools and Frameworks
+## Related digital tools and frameworks
 
 Tools that support or integrate AI into its workflow
 
