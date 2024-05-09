@@ -32,8 +32,6 @@ Not all of the tools have been tested, use at your own risk.
 | OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | [Link](https://openai.com/)|
 | Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | [Link](https://www.paperspace.com/) |
 | Replicate               | A platform for sharing and running machine learning experiments.                                                   | [Link](https://replicate.com/) |
-| Salesforce Einstein     | Integrates AI capabilities within Salesforce to enhance customer relationship management.                          | [Link](https://www.salesforce.com/de/artificial-intelligence/) |
-| SAP AI                  | A digital innovation platform that includes machine learning, IoT, and analytics.                                  | [Link](https://www.sap.com/germany/products/artificial-intelligence.html) |
 
 ## Selected Models
 
