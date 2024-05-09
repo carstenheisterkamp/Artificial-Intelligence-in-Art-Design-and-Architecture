@@ -309,7 +309,12 @@ Critical writings in AI and technology topics
 + https://www.creativeapplications.net/
 + https://neural.it/
 
-## Artists
+## Further Readngs
+https://huggingface.co/blog
+https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+
+
+## AI Artists
 
 + https://www.instagram.com/jeanjacquesbalzac
 + https://www.instagram.com/benny_drop
