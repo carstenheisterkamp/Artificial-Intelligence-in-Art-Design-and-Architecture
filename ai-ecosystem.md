@@ -10,7 +10,7 @@ Not all of the tools have been tested, use at your own risk.
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
 | Aleph Alpha             | European industry AI platform that aligns with European values of data privacy and technological sovereignty.      | [Link](https://aleph-alpha.com/) |
 | Alibaba Cloud AI        | Offers cloud computing services and AI tools for developers and businesses.                                        | [Link](https://www.alibabacloud.com/) |
-| Stanford Alpaca         | A lightweight, performant, and easy-to-use text-to-code API that utilizes the power of large language models.      | [[Link](https://crfm.stanford.edu/2023/03/13/alpaca.html) |
+| Stanford Alpaca         | A lightweight, performant, and easy-to-use text-to-code API that utilizes the power of large language models.      | [Link](https://crfm.stanford.edu/2023/03/13/alpaca.html) |
 | Amazon AI               | Offers a suite of machine learning services and tools on the AWS cloud platform.                                   | [Link](https://aws.amazon.com/de/ai/) |
 | Anthropic               | An AI safety and research company working to build reliable, interpretable, and steerable AI systems.              | [Link](https://www.anthropic.com/) |
 | Azure AI Studio         | Provides a collaborative environment for building, training, and deploying machine learning models.                | [Link](https://ai.azure.com/) |
