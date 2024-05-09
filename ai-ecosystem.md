@@ -16,7 +16,6 @@ Not all of the tools have been tested, use at your own risk.
 | Azure AI Studio         | Provides a collaborative environment for building, training, and deploying machine learning models.                | [Azure AI Studio](https://ai.azure.com/) |
 | Civit AI                | A cloud-based AI platform that provides access to a variety of AI tools and services, including pre-trained models, datasets, and training tools. | [Civit AI](https://civitai.com/)  |
 | Cohere                  | Enables developers and enterprises to build LLM-powered applications with a focus on ease-of-use and data privacy. | [Cohere](https://cohere.com/) |
-| Crayo                   | TBD                                                                                                                | [Crayon](https://www.crayon.com/) |
 | Fireworks               | A cloud-based platform for building and deploying AI applications.                                                 | [Fireworks](https://fireworks.ai/)  |
 | Google AI               | Focuses on conducting research to advance AI and developing tools for real-world applications.                     | [Google AI](https://ai.google/) |
 | Google Colab            | A free cloud-based Jupyter notebook environment that allows you to write and execute Python code using Google's computing resources. | [Google Colab](https://colab.research.google.com/) |
