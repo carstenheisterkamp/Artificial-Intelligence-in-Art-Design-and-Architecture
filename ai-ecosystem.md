@@ -24,6 +24,7 @@ Not all of the tools have been tested, use at your own risk.
 | IBM AI                  | Leverages Watson to transform industries with data-driven insights and expertise.                                  | [Link](https://www.ibm.com/de-de/artificial-intelligence) |
 | Intel Nervana AI        | Focused on accelerating deep learning applications.                                                                | [Link](https://www.intel.de/content/www/de/de/artificial-intelligence/overview.html) |
 | Kaggle                  | A community to share datasets, compete in machine learning competitions, and collaborate on projects.              | [Link](https://www.kaggle.com/) |
+| Llama Index             | Open Source data framework and community for building LLM applications.                                            | [Link]( https://www.llamaindex.ai/)
 | Meta AI                 | Dedicated to advancing AI through open research and innovation.                                                    | [Link](https://www.meta.ai/) |
 | Microsoft AI            | Encompasses a range of AI products and services to empower organizations and developers.                           | [Link](https://www.microsoft.com/de-de/ai) |
 | Mindverse               | German AI Platform based in Berlin                                                                                 | [Link](https://www.mind-verse.de/) |
