@@ -9,36 +9,31 @@ Not all of the tools have been tested, use at your own risk.
 ## General AI
 
 | Platform                | Description                                                                                                        | Link                           |
-|-------------------------|--------------------------------------------------------------------------------------------------                  |--------------------------------|
+|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
 | Alibaba Cloud AI        | Offers cloud computing services and AI tools for developers and businesses.                                        | Alibaba Cloud AI |
+| Alpaca (Stanford Alpaca)| A lightweight, performant, and easy-to-use text-to-code API that utilizes the power of large language models.      | [Standford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html) |
 | Amazon AI               | Offers a suite of machine learning services and tools on the AWS cloud platform.                                   | Amazon AI |
 | Anthropic               | An AI safety and research company working to build reliable, interpretable, and steerable AI systems.              | Anthropic |
 | Azure AI Studio         | Provides a collaborative environment for building, training, and deploying machine learning models.                | Azure AI Studio |
-| Cohere                  | Enables developers and enterprises to build LLM-powered applications with a focus on ease-of-use and data privacy. | [Cohere](https://cohere.com/) |
-| Facebook AI (Meta AI)   | Dedicated to advancing AI through open research and innovation.                                                    | Meta AI https://ai.meta.com/meta-ai/ |
-| Google AI               | Focuses on conducting research to advance AI and developing tools for real-world applications.                     | Google AI https://ai.google/ |
+| Civit AI                | A cloud-based AI platform that provides access to a variety of AI tools and services, including pre-trained models, datasets, and training tools. | [Civit AI](https://civitai.com/)  |
+| Cohere                  | Enables developers and enterprises to build LLM-powered applications with a focus on ease-of-use and data privacy. | Cohere |
+| Fireworks               | A cloud-based platform for building and deploying AI applications.                                                 | [Fireworks](https://fireworks.ai/)  |
+| Google AI               | Focuses on conducting research to advance AI and developing tools for real-world applications.                     | Google AI |
+| Google Colab            | A free cloud-based Jupyter notebook environment that allows you to write and execute Python code using Google's computing resources. | [Google Colab](https://colab.research.google.com/) |
+| Hugging Face            | A platform for sharing and using natural language processing (NLP) models and datasets.                            |[Hugging Face](https://huggingface.co/) |
 | IBM AI                  | Leverages Watson to transform industries with data-driven insights and expertise.                                  | IBM AI |
 | Intel Nervana AI        | Focused on accelerating deep learning applications.                                                                | Intel AI |
-| Microsoft AI            | Encompasses a range of AI products and services to empower organizations and developers.                           | Microsoft AI https://www.microsoft.com/de-de/ai |
+| Kaggle                  | A community of data scientists and machine learning practitioners who share datasets, compete in machine learning competitions, and collaborate on projects. | [Kaggle](https://www.kaggle.com/)  |
+| Meta AI                 | Dedicated to advancing AI through open research and innovation.                                                    | Meta AI |
+| Microsoft AI            | Encompasses a range of AI products and services to empower organizations and developers.                           | Microsoft AI |
+| Mistral                 | A cloud-based platform for training and deploying AI models.                                                       | [Mistral](https://mistral.ai/)|
+| Nvidia AI               | A comprehensive suite of AI tools and resources, including GPUs, software, and training platforms.                 | [Nvidia AI](https://www.nvidia.com/en-us/ai-data-science/) |
 | Nvidia Deep Learning AI | Provides GPU-accelerated deep learning tools and libraries.                                                        | Nvidia AI |
-| OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | OpenAI https://openai.com |
+| OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | OpenAI |
+| Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | [Paperspace](https://www.paperspace.com/) |
+| Replicate               | A platform for sharing and running machine learning experiments.                                                   | [Replicate](https://replicate.com/) |
 | Salesforce Einstein     | Integrates AI capabilities within Salesforce to enhance customer relationship management.                          | Salesforce Einstein |
 | SAP Leonardo            | A digital innovation platform that includes machine learning, IoT, and analytics.                                  | SAP Leonardo |
-
-
-| Plattform | Beschreibung | Link |
-|---|---|---|
-| Alpaca | A lightweight, performant, and easy-to-use text-to-code API that utilizes the power of large language models. | [Standford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html) |
-| Civit AI | A cloud-based AI platform that provides access to a variety of AI tools and services, including pre-trained models, datasets, and training tools. | [Civit AI](https://civitai.com/) |
-(https://coherehealth.com/) |
-| Fireworks | A cloud-based platform for building and deploying AI applications. | [Fireworks](https://fireworks.ai/) |
-| Google Colab | A free cloud-based Jupyter notebook environment that allows you to write and execute Python code using Google's computing resources. | [Google Colab](https://colab.research.google.com/) |
-| Hugging Face | A platform for sharing and using natural language processing (NLP) models and datasets. | [Hugging Face](https://huggingface.co/) |
-| Kaggle | A community of data scientists and machine learning practitioners who share datasets, compete in machine learning competitions, and collaborate on projects. | [Kaggle](https://www.kaggle.com/) |
-| Mistral | A cloud-based platform for training and deploying AI models. | [Mistral](https://mistral.ai/) |
-| Nvidia AI | A comprehensive suite of AI tools and resources, including GPUs, software, and training platforms. | [Nvidia AI](https://www.nvidia.com/en-us/ai-data-science/) |
-| Paperspace | A cloud-based platform for training and deploying machine learning models. | [Paperspace](https://www.paperspace.com/) |
-| Replicate | A platform for sharing and running machine learning experiments. | [Replicate](https://replicate.com/) |
 
 ## Selected Models
 
