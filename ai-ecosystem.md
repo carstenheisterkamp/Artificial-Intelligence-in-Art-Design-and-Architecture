@@ -162,8 +162,13 @@ Commercial and free but commercial text generators
 + https://picwish.com/
 + https://letsenhance.io/
 
+## Architecture
+
+https://www.autodesk.eu/solutions/autodesk-ai
+
 ## Design
 
++ https://www.autodesk.eu/solutions/autodesk-ai
 + https://looka.com
 + https://designs.ai
 + http://www.colormind.io
@@ -252,7 +257,7 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 + 3D AIStudio https://www.3daistudio.com/
 
 ## Marketing
-
++ https://www.adobe.com/de/sensei/creative-cloud-artificial-intelligence.html
 + AdCreative https://adcreative.ai/
 + https://www.visme.co/
 + https://www.mediakits.com/
