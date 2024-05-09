@@ -35,6 +35,34 @@ Not all of the tools have been tested, use at your own risk.
 | Salesforce Einstein     | Integrates AI capabilities within Salesforce to enhance customer relationship management.                          | Salesforce Einstein |
 | SAP Leonardo            | A digital innovation platform that includes machine learning, IoT, and analytics.                                  | SAP Leonardo |
 
+| Category                | Platform                | Description                                                                                                        | Link                           |
+|-------------------------|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| AI Safety               | Anthropic               | An AI safety and research company working to build reliable, interpretable, and steerable AI systems.              | Anthropic |
+| Application Development | Cohere                  | Enables developers and enterprises to build LLM-powered applications with a focus on ease-of-use and data privacy. | Cohere |
+| Business Solutions      | Salesforce Einstein     | Integrates AI capabilities within Salesforce to enhance customer relationship management.                          | Salesforce Einstein |
+| Business Solutions      | SAP Leonardo            | A digital innovation platform that includes machine learning, IoT, and analytics.                                  | SAP Leonardo |
+| Cloud Services          | Alibaba Cloud AI        | Offers cloud computing services and AI tools for developers and businesses.                                        | Alibaba Cloud AI |
+| Cloud Services          | Amazon AI               | Offers a suite of machine learning services and tools on the AWS cloud platform.                                   | Amazon AI |
+| Cloud Services          | Azure AI Studio         | Provides a collaborative environment for building, training, and deploying machine learning models.                | Azure AI Studio |
+| Cloud Services          | Civit AI                | A cloud-based AI platform that provides access to a variety of AI tools and services, including pre-trained models, datasets, and training tools. | Civit AI  |
+| Cloud Services          | Fireworks               | A cloud-based platform for building and deploying AI applications.                                                 | Fireworks  |
+| Cloud Services          | Microsoft AI            | Encompasses a range of AI products and services to empower organizations and developers.                           | Microsoft AI |
+| Cloud Services          | Mistral                 | A cloud-based platform for training and deploying AI models.                                                       | Mistral|
+| Cloud Services          | Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | Paperspace |
+| Community & Competitions| Kaggle                  | A community of data scientists and machine learning practitioners who share datasets, compete in machine learning competitions, and collaborate on projects. | Kaggle  |
+| Community & Models      | Hugging Face            | A platform for sharing and using natural language processing (NLP) models and datasets.                            |Hugging Face |
+| Community & Models      | Replicate               | A platform for sharing and running machine learning experiments.                                                   | Replicate |
+| Educational Tools       | Google Colab            | A free cloud-based Jupyter notebook environment that allows you to write and execute Python code using Google's computing resources. | Google Colab |
+| Hardware & Acceleration | Intel Nervana AI        | Focused on accelerating deep learning applications.                                                                | Intel AI |
+| Hardware & Acceleration | Nvidia AI               | A comprehensive suite of AI tools and resources, including GPUs, software, and training platforms.                 | Nvidia AI |
+| Hardware & Acceleration | Nvidia Deep Learning AI | Provides GPU-accelerated deep learning tools and libraries.                                                        | Nvidia AI |
+| Machine Learning        | Azure AI Studio         | Provides a collaborative environment for building, training, and deploying machine learning models.                | Azure AI Studio |
+| Research & Development  | Alpaca (Stanford Alpaca)| A lightweight, performant, and easy-to-use text-to-code API that utilizes the power of large language models.      | Standford Alpaca |
+| Research & Development  | Google AI               | Focuses on conducting research to advance AI and developing tools for real-world applications.                     | Google AI |
+| Research & Development  | Meta AI                 | Dedicated to advancing AI through open research and innovation.                                                    | Meta AI |
+| Research & Development  | OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | OpenAI |
+
+
 ## Selected Models
 
 | Model | Description | Link |
