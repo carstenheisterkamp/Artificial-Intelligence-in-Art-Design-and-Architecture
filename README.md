@@ -5,6 +5,6 @@ A collection of material and documents for my course about artificial intelligen
 
 - AI Tools
   
-| Folder   | Description                            |
-|---|---|
-| Papers   | Papers about AI Reasearch in contetx |
+| Folder    | Description                                                                |
+|---        |---                                                                         |
+| Papers    | Papers about research in AI and AI in context architecture, art and design |
