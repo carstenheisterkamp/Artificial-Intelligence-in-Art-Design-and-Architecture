@@ -19,6 +19,7 @@ Not all of the tools have been tested, use at your own risk.
 | Cohere                  | Enables developers and enterprises to build LLM-powered applications with a focus on ease-of-use and data privacy. | [Link](https://cohere.com/) |
 | Eleuther                | Empowering Open-Source Artificial Intelligence Research.                                                           | [Link](https://www.eleuther.ai/) | 
 | Fireworks               | A cloud-based platform for building and deploying AI applications.                                                 | [Link](https://fireworks.ai/)  |
+| Flux                    | Julia Math, Machine learning stack                                                                                 | [Link](https://fluxml.ai/)|
 | Google AI               | Focuses on conducting research to advance AI and developing tools for real-world applications.                     | [Link](https://ai.google/) |
 | Google Colab            | A free cloud-based Jupyter notebook environment that allows you to write and execute Python code.                  | [Link](https://colab.research.google.com/) |
 | Hugging Face            | A platform for sharing and using natural language processing (NLP) models and datasets.                            | [Link](https://huggingface.co/) |
@@ -26,9 +27,10 @@ Not all of the tools have been tested, use at your own risk.
 | Intel Nervana AI        | Focused on accelerating deep learning applications.                                                                | [Link](https://www.intel.de/content/www/de/de/artificial-intelligence/overview.html) |
 | Kaggle                  | A community to share datasets, compete in machine learning competitions, and collaborate on projects.              | [Link](https://www.kaggle.com/) |
 | Llama Index             | Open Source data framework and community for building LLM applications.                                            | [Link]( https://www.llamaindex.ai/)
+| MatLab Machine Learning | MatLab Deeplearning Toolbox.                                                                                       | [Link](https://de.mathworks.com/solutions/deep-learning/tutorials-examples.html) |
 | Meta AI                 | Dedicated to advancing AI through open research and innovation.                                                    | [Link](https://www.meta.ai/) |
 | Microsoft AI            | Encompasses a range of AI products and services to empower organizations and developers.                           | [Link](https://www.microsoft.com/de-de/ai) |
-| Mindverse               | German AI Platform based in Berlin                                                                                 | [Link](https://www.mind-verse.de/) |
+| Mindverse               | AI Platform forcopywriting, research, image generation and productivity                                            | [Link](https://www.mind-verse.de/) |
 | Mistral                 | A cloud-based platform for training and deploying AI models.                                                       | [Link](https://mistral.ai/)|
 | Nvidia AI               | A comprehensive suite of AI tools and resources, including GPUs, software, and training platforms.                 | [Link](https://www.nvidia.com/en-us/ai-data-science/) |
 | OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | [Link](https://openai.com/)|
@@ -41,14 +43,15 @@ Not all of the tools have been tested, use at your own risk.
 
 | Model | Description | Link |
 |---|---|---|
+|||[Link](https://huggingface.co/facebook/opt-350m)|
+|||[Link](https://huggingface.co/CompVis/stable-diffusion-v1-4)|
+|||[Link](https://huggingface.co/stablediffusionapi/architecturerealmix)|
+|||[Link](https://huggingface.co/spaces/tonyassi/sketch-to-fashion-design)|
+|||[Link](https://huggingface.co/stablediffusionapi/product-design)|
 |||[Link](https://mistral.ai/news/mixtral-8x22b/)|
+|||[Link](https://huggingface.co/ahmed-naseer/designgen-23k-25k)|
+|||[Link]()|
 
-+ https://huggingface.co/facebook/opt-350m
-+ https://huggingface.co/CompVis/stable-diffusion-v1-4
-+ https://huggingface.co/stablediffusionapi/architecturerealmix
-+ https://huggingface.co/spaces/tonyassi/sketch-to-fashion-design
-+ https://huggingface.co/stablediffusionapi/product-design
-+ https://huggingface.co/ahmed-naseer/designgen-23k-25k
 
 ## Training Data
 Opern Source training datasets.
@@ -59,7 +62,9 @@ Opern Source training datasets.
 | Laion | TBD | [Link](https://laion.ai/) |
 | Laion Aesthetic| TBD | [Link](https://github.com/LAION-AI/laion-datasets/tree/main/laion-aesthetic) |
 | UCI ML Repository | UC Irvine Machine Learning Repository |[Link](https://archive.ics.uci.edu/)|
-||||
+|||[Link]()|
+|||[Link]()|
+
 
 ## Open Data
 Open data sources 
