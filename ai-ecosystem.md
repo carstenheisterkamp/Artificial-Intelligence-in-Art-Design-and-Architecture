@@ -326,7 +326,17 @@ https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-i
 
 
 ## AI Artists
+https://aiartists.org/
+Mario Klingemann
+Anna Ridler https://annaridler.com/
+Memo Akten https://www.memo.tv/
+James Bridle https://jamesbridle.com/
+Holly Herndon https://herndondryhurst.studio/
+Hito Steyerl https://de.wikipedia.org/wiki/Hito_Steyerl
 
+Helena Sarin https://aiartists.org/helena-sarin
+https://www.nvidia.com/en-us/research/ai-art-gallery/artists/helena-sarin/
+Obvious Kollektiv 
 + https://www.instagram.com/jeanjacquesbalzac
 + https://www.instagram.com/benny_drop
 + https://www.instagram.com/niceaunties
