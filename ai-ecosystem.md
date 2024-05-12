@@ -324,10 +324,16 @@ Critical writings in AI and technology topics
 + https://www.404media.co/
 + https://www.creativeapplications.net/
 + https://neural.it/
++ https://huggingface.co/blog
 
 ## Further Readngs
-https://huggingface.co/blog
 https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+https://www.latimes.com/projects/artificial-intelligence-generated-art-ownership-bias-dall-e-midjourney/
+https://www.theartnewspaper.com/2024/04/05/on-process-refik-anadol-seeks-to-demystify-ai-art-by-showing-how-it-is-put-together
+https://www.nngroup.com/articles/ai-paradigm/
+https://openai.com/index/video-generation-models-as-world-simulators/
+https://cacm.acm.org/research/autonomous-tools-and-design/
+
 
 
 ## AI Artists
