@@ -329,6 +329,7 @@ Critical writings in AI and technology topics
 + https://www.creativeapplications.net/
 + https://neural.it/
 + https://huggingface.co/blog
++ Wired Article Database https://www.wired.com/category/artificial-intelligence/
 
 ## Further Readngs
 https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
