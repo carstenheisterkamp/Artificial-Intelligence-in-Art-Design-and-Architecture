@@ -313,7 +313,10 @@ Tools that support or integrate AI into its workflow
 
 ## Tutorials and courses
 + https://www.deeplearning.ai
-+ 
++ https://www.pluralsight.com/ai/ai-sandboxes
+
+## Literature
+Art and AI https://ars.electronica.art/newdigitaldeal/files/2021/08/artandai.pdf
 
 ## Mags, People and Communities
 Critical writings in AI and technology topics
@@ -353,12 +356,4 @@ Obvious Kollektiv
 + https://www.instagram.com/fit_aitana/
 + https://www.instagram.com/fashionweek.ai/
 
-  ## Literature
-  Art and AI https://ars.electronica.art/newdigitaldeal/files/2021/08/artandai.pdf
 
-  ## Blogs
-  https://huggingface.co/blog
-
-  ## Articles
-  
-  https://huggingface.co/blog
