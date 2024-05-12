@@ -196,12 +196,16 @@ https://www.usegalileo.ai/
 ## Fashion
 
 + https://thenewblack.ai/
++ https://www.ca.la/
 + https://lalaland.ai/
 + https://resleeve.ai/
++ https://blog.refabric.com/
 + https://www.yoona.ai/
 + https://offscriptmtl.com/
 + https://www.ablo.ai/
 + https://www.ca.la/
++ Discovery https://yesplz.ai/
++ https://www.heuritech.com/ Trend prediction
 + https://www.designovel.com/ Trend prediction
 
 ## Audio Generators
@@ -334,6 +338,9 @@ https://www.nngroup.com/articles/ai-paradigm/
 https://openai.com/index/video-generation-models-as-world-simulators/
 https://cacm.acm.org/research/autonomous-tools-and-design/
 
+## Videos and Podcasts
+https://schedule.sxsw.com/2023/events/PP122773
+The art of artificial intelligence, with Eryk Salvaggio https://www.youtube.com/watch?v=AyNDi0y13Ig
 
 
 ## AI Artists
