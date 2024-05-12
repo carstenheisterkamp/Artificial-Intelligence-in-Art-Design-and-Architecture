@@ -1,5 +1,5 @@
 # AI Ecosystem
-A curated evergrowing list of AI tools, platforms and libraries.
+A curated evergrowing list of AI tools, platforms, libraries and resources.
 
 ## Disclaimer
 Not all of the tools have been tested, use at your own risk.
@@ -165,6 +165,7 @@ Commercial and free but commercial text generators
 + https://dream.ai/
 + https://www.prompthunt.com/
 + https://www.craiyon.com/
++ Fashion photos https://botika.io/ 
 
 ## Image Editing
 
@@ -201,6 +202,7 @@ https://www.usegalileo.ai/
 + https://offscriptmtl.com/
 + https://www.ablo.ai/
 + https://www.ca.la/
++ https://www.designovel.com/ Trend prediction
 
 ## Audio Generators
 
@@ -350,3 +352,13 @@ Obvious Kollektiv
 + https://www.theclueless.ai/models
 + https://www.instagram.com/fit_aitana/
 + https://www.instagram.com/fashionweek.ai/
+
+  ## Literature
+  Art and AI https://ars.electronica.art/newdigitaldeal/files/2021/08/artandai.pdf
+
+  ## Blogs
+  https://huggingface.co/blog
+
+  ## Articles
+  
+  https://huggingface.co/blog
