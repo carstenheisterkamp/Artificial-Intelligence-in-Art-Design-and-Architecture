@@ -11,6 +11,7 @@ Not all of the tools have been tested, use at your own risk.
 | Aleph Alpha             | European industry AI platform that aligns with European values of data privacy and technological sovereignty.      | [Link](https://aleph-alpha.com/) |
 | Alibaba Cloud AI        | Offers cloud computing services and AI tools for developers and businesses.                                        | [Link](https://www.alibabacloud.com/) |
 | Anakin AI               | One stop AI platform for content, images, videos, voicegeneration in automated workflows                           | https://anakin.ai/ |
+| Apache mxnet            | Open Source Machine Learning Platform                                                                              | https://mxnet.apache.org/ |
 | Stanford Alpaca         | A lightweight, performant, and easy-to-use text-to-code API that utilizes the power of large language models.      | [Link](https://crfm.stanford.edu/2023/03/13/alpaca.html) |
 | Amazon AI               | Offers a suite of machine learning services and tools on the AWS cloud platform.                                   | [Link](https://aws.amazon.com/de/ai/) |
 | Anthropic               | An AI safety and research company working to build reliable, interpretable, and steerable AI systems.              | [Link](https://www.anthropic.com/) |
@@ -25,6 +26,7 @@ Not all of the tools have been tested, use at your own risk.
 | Hugging Face            | A platform for sharing and using natural language processing (NLP) models and datasets.                            | [Link](https://huggingface.co/) |
 | IBM AI                  | Leverages Watson to transform industries with data-driven insights and expertise.                                  | [Link](https://www.ibm.com/de-de/artificial-intelligence) |
 | Intel Nervana AI        | Focused on accelerating deep learning applications.                                                                | [Link](https://www.intel.de/content/www/de/de/artificial-intelligence/overview.html) |
+| Jupyter AI              | Open source AI for Jupyter Notbooks                                                                                |Link|(https://github.com/jupyterlab/jupyter-ai)
 | Kaggle                  | A community to share datasets, compete in machine learning competitions, and collaborate on projects.              | [Link](https://www.kaggle.com/) |
 | Llama Index             | Open Source data framework and community for building LLM applications.                                            | [Link]( https://www.llamaindex.ai/)
 | MatLab Machine Learning | MatLab Deeplearning Toolbox.                                                                                       | [Link](https://de.mathworks.com/solutions/deep-learning/tutorials-examples.html) |
@@ -35,9 +37,9 @@ Not all of the tools have been tested, use at your own risk.
 | Nvidia AI               | A comprehensive suite of AI tools and resources, including GPUs, software, and training platforms.                 | [Link](https://www.nvidia.com/en-us/ai-data-science/) |
 | OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | [Link](https://openai.com/)|
 | Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | [Link](https://www.paperspace.com/) |
-| PyTorch                 | An end-to-end platform for machine learning                                                                        | [Link](https://pytorch.org/)
+| PyTorch                 | Open source end-to-end platform for machine learning                                                               | [Link](https://pytorch.org/)
 | Replicate               | A platform for sharing and running machine learning experiments.                                                   | [Link](https://replicate.com/) |
-| TensorFLow              | An end-to-end platform for machine learning                                                                        | [Link](https://www.tensorflow.org/) |
+| TensorFLow              | Open source end-to-end platform for machine learning                                                               | [Link](https://www.tensorflow.org/) |
 
 ## Selected Models
 
