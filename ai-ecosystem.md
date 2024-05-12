@@ -33,7 +33,9 @@ Not all of the tools have been tested, use at your own risk.
 | Nvidia AI               | A comprehensive suite of AI tools and resources, including GPUs, software, and training platforms.                 | [Link](https://www.nvidia.com/en-us/ai-data-science/) |
 | OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | [Link](https://openai.com/)|
 | Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | [Link](https://www.paperspace.com/) |
+| PyTorch                 | An end-to-end platform for machine learning                                                                        | [Link](https://pytorch.org/)
 | Replicate               | A platform for sharing and running machine learning experiments.                                                   | [Link](https://replicate.com/) |
+| TensorFLow              | An end-to-end platform for machine learning                                                                        | [Link](https://www.tensorflow.org/) |
 
 ## Selected Models
 
