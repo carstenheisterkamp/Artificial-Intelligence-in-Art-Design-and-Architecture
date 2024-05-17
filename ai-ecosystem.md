@@ -76,6 +76,27 @@ Open data sources
 | Open Goverment Data Germany | TBD |[Link](https://www.govdata.de/) |
 | Common Crawl | TBD |[Link](https://commoncrawl.org/) |
 
+## Labeling and Annotation
+
+https://github.com/HumanSignal/label-studio
+https://github.com/HumanSignal/awesome-data-labeling
+CVAT
+awesome-data-labelling
+bbox-visualizer
+dataqa
+doccano
+hover
+Label-studio
+Labelme
+VoTT
+Yolo-mark
+
+Kommerziell
+https://labelstud.io/
+LabelBox
+Prodigy
+
+
 ## Text Generators
 Commercial and free but commercial text generators
 
