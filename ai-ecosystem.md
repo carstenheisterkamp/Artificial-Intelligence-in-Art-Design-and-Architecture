@@ -25,8 +25,8 @@ Not all of the tools have been tested, use at your own risk.
 | Google Colab            | A free cloud-based Jupyter notebook environment that allows you to write and execute Python code.                  | [Link](https://colab.research.google.com/) |
 | Hugging Face            | A platform for sharing and using natural language processing (NLP) models and datasets.                            | [Link](https://huggingface.co/) |
 | IBM AI                  | Leverages Watson to transform industries with data-driven insights and expertise.                                  | [Link](https://www.ibm.com/de-de/artificial-intelligence) |
-| Intel AI        | Focused on accelerating deep learning applications.                                                                | [Link](https://www.intel.de/content/www/de/de/artificial-intelligence/overview.html) |
-| Jupyter AI              | Open source AI for Jupyter Notbooks                                                                                |Link(https://github.com/jupyterlab/jupyter-ai) |
+| Intel AI        | Focused on accelerating deep learning applications.                                                                        | [Link](https://www.intel.de/content/www/de/de/artificial-intelligence/overview.html) |
+| Jupyter AI              | Open source AI for Jupyter Notbooks                                                                                | [Link](https://github.com/jupyterlab/jupyter-ai) |
 | Kaggle                  | A community to share datasets, compete in machine learning competitions, and collaborate on projects.              | [Link](https://www.kaggle.com/) |
 | Llama Index             | Open Source data framework and community for building LLM applications.                                            | [Link]( https://www.llamaindex.ai/)
 | MatLab Machine Learning | MatLab Deeplearning Toolbox.                                                                                       | [Link](https://de.mathworks.com/solutions/deep-learning/tutorials-examples.html) |
