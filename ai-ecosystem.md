@@ -34,7 +34,7 @@ Not all of the tools have been tested, use at your own risk.
 | Microsoft AI            | Encompasses a range of AI products and services to empower organizations and developers.                           | [Link](https://www.microsoft.com/de-de/ai) |
 | Mindverse               | AI Platform forcopywriting, research, image generation and productivity                                            | [Link](https://www.mind-verse.de/) |
 | Mistral                 | A cloud-based platform for training and deploying AI models.                                                       | [Link](https://mistral.ai/)|
-| Nvidia AI               | A comprehensive suite of AI tools and resources, including GPUs, software, and training platforms.                 | [Link](https://www.nvidia.com/en-us/ai-data-science/) |
+| Nvidia AI               | A comprehensive suite of AI  and resources, including GPUs, software, and training platforms.                 | [Link](https://www.nvidia.com/en-us/ai-data-science/) |
 | OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | [Link](https://openai.com/)|
 | Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | [Link](https://www.paperspace.com/) |
 | PyTorch                 | Open source end-to-end platform for machine learning                                                               | [Link](https://pytorch.org/)
@@ -124,7 +124,7 @@ Commercial and free but commercial text generators
 | ChatPDF | A tool that allows for interactive conversations with uploaded PDFs, making it easier to understand and annotate documents. | [ChatPDF](https://www.chatpdf.com/) |
 | Compose.ai | An AI writing assistant that helps you write faster by completing your sentences and offering suggestions. | [Compose.ai]() |
 | Headlime | A content generation tool that uses AI to create high-converting marketing copy for various platforms and purposes. | [Headlime] |
-| HyperWrite AI | A suite of AI writing tools that assist with creating content, editing, and more, to improve writing efficiency. | [HyperWrite AI](https://www.hyperwriteai.com/) |
+| HyperWrite AI | A suite of AI writing  that assist with creating content, editing, and more, to improve writing efficiency. | [HyperWrite AI](https://www.hyperwriteai.com/) |
 | Jenni AI | An AI-powered writing assistant that helps with academic writing, offering features like research assistance and citation formatting. | [Jenni AI](https://jenni.ai/) |
 | Laika | An AI writing tool that provides virtual companions to help with creative writing and brainstorming. | [Laika](https://www.writewithlaika.com/) |
 | Lavender | An AI email assistant that helps you write better emails faster by analyzing your writing and providing real-time suggestions. | [Lavender]() |
@@ -151,13 +151,14 @@ Commercial and free but commercial text generators
 + https://aws.amazon.com/codewhisperer/
 + https://www.safurai.com/
 
-## Dev Tools
+## Developer Tools
 
 + https://circleci.com/
 + https://www.framer.com/features/ai/
 + https://coderabbit.ai/
 + Fronty Imge to Html https://fronty.com/
 + Vector Database https://weaviate.io/
++ https://neo4j.com/
 
 ## Image Generators
 
