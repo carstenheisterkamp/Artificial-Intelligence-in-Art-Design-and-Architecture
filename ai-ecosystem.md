@@ -317,6 +317,7 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 
 ## Agents, Bots and Assistants
 
++https://www.crewai.com/
 + https://www.chatbotui.com/
 + https://librechat.ai/
 + https://www.trywilco.com/sierra
