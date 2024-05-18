@@ -40,6 +40,7 @@ Not all of the tools have been tested, use at your own risk.
 | PyTorch                 | Open source end-to-end platform for machine learning                                                               | [Link](https://pytorch.org/)
 | Replicate               | A platform for sharing and running machine learning experiments.                                                   | [Link](https://replicate.com/) |
 | TensorFLow              | Open source end-to-end platform for machine learning                                                               | [Link](https://www.tensorflow.org/) |
+| Weights & Biases        | Build models , fine-tune LLMs, develop GenAI applications                                                          | https://wandb.ai/site |
 
 ## Selected Models
 
@@ -156,6 +157,7 @@ Commercial and free but commercial text generators
 + https://www.framer.com/features/ai/
 + https://coderabbit.ai/
 + Fronty Imge to Html https://fronty.com/
++ Vector Database https://weaviate.io/
 
 ## Image Generators
 
@@ -321,6 +323,7 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 + https://www.chatbotui.com/
 + https://librechat.ai/
 + https://www.trywilco.com/sierra
++ https://learn.microsoft.com/en-us/semantic-kernel/overview/
 
 ## Search Engines
 
@@ -329,6 +332,10 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 + Bing CoPilot https://bing.com
 + https://www.phind.com/
 + https://exa.ai/
+
+## Testing and QA
+
++ tbd
 
 ## Related digital tools and frameworks
 
