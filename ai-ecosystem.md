@@ -20,18 +20,18 @@ Not all of the tools have been tested, use at your own risk.
 | Cohere                  | Enables developers and enterprises to build LLM-powered applications with a focus on ease-of-use and data privacy. | [Link](https://cohere.com/) |
 | Eleuther                | Empowering Open-Source Artificial Intelligence Research.                                                           | [Link](https://www.eleuther.ai/) | 
 | Fireworks               | A cloud-based platform for building and deploying AI applications.                                                 | [Link](https://fireworks.ai/)  |
-| Flux                    | Julia Math, Machine learning stack                                                                                 | [Link](https://fluxml.ai/)|
+| Flux                    | Julia Math, Machine learning stack.                                                                                | [Link](https://fluxml.ai/)|
 | Google AI               | Focuses on conducting research to advance AI and developing tools for real-world applications.                     | [Link](https://ai.google/) |
 | Google Colab            | A free cloud-based Jupyter notebook environment that allows you to write and execute Python code.                  | [Link](https://colab.research.google.com/) |
 | Hugging Face            | A platform for sharing and using natural language processing (NLP) models and datasets.                            | [Link](https://huggingface.co/) |
 | IBM AI                  | Leverages Watson to transform industries with data-driven insights and expertise.                                  | [Link](https://www.ibm.com/de-de/artificial-intelligence) |
-| Intel AI        | Focused on accelerating deep learning applications.                                                                        | [Link](https://www.intel.de/content/www/de/de/artificial-intelligence/overview.html) |
+| Intel AI                | Focused on accelerating deep learning applications.                                     | [Link](https://www.intel.de/content/www/de/de/artificial-intelligence/overview.html) |
 | Jax                     | High Performance large scale numerical computing for machine learning written in Python                            | [Link](https://jax.readthedocs.io/) |
-| Jupyter AI              | Open source AI for Jupyter Notbooks                                                                                | [Link](https://github.com/jupyterlab/jupyter-ai) |
+| Jupyter AI              | Open source AI for Jupyter Notbooks.                                                                                | [Link](https://github.com/jupyterlab/jupyter-ai) |
 | Kaggle                  | A community to share datasets, compete in machine learning competitions, and collaborate on projects.              | [Link](https://www.kaggle.com/) |
 | Keras                   | Deep learning API written in Python for PyTorch, Tensorflow and Jax                                                | [Link](https://keras.io/) |
 | Llama Index             | Open Source data framework and community for building LLM applications.                                            | [Link]( https://www.llamaindex.ai/)
-| MatLab Machine Learning | MatLab Deeplearning Toolbox.                                                                                       | [Link](https://de.mathworks.com/solutions/deep-learning/tutorials-examples.html) |
+| MatLab ML               | MatLab Deeplearning Toolbox.                                                                                       | [Link](https://de.mathworks.com/solutions/deep-learning) |
 | Meta AI                 | Dedicated to advancing AI through open research and innovation.                                                    | [Link](https://www.meta.ai/) |
 | Microsoft AI            | Encompasses a range of AI products and services to empower organizations and developers.                           | [Link](https://www.microsoft.com/de-de/ai) |
 | Mindverse               | AI Platform forcopywriting, research, image generation and productivity                                            | [Link](https://www.mind-verse.de/) |
@@ -55,7 +55,7 @@ Not all of the tools have been tested, use at your own risk.
 | Huggingface sketch-to-fashion-design| Does exactly that |[Link](https://huggingface.co/spaces/tonyassi/sketch-to-fashion-design)|
 | Huggingface product-design| Product Design sketch style|[Link](https://huggingface.co/stablediffusionapi/product-design)|
 | Huggingface designgen-23k-25k| Text-to-Image diffusen model |[Link](https://huggingface.co/ahmed-naseer/designgen-23k-25k)|
-| Mistral mixtral-8x22b|LLM model  fluent English, French, Italian, German, Spanish, strong mathematics and coding capabilities, pable of function calling, 4K tokens context window |[Link](https://mistral.ai/news/mixtral-8x22b/)|
+| Mistral mixtral-8x22b|LLM model, fluent EN, FR, IT, GER, SP, strong mathematics and coding capabilities, function calling, 4K tokens context window | [Link](https://mistral.ai/news/mixtral-8x22b/) |
 
 ## Training Data
 Opern Source training datasets.
