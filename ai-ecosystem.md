@@ -294,6 +294,8 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 
 ## Video Editing
 
++ RunwayML
+
 ## 3D Modelling
 
 + 3D AIStudio https://www.3daistudio.com/
@@ -338,6 +340,10 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 ## Testing and QA
 
 + tbd
+
+## Art Protection
+
++ https://glaze.cs.uchicago.edu/what-is-glaze.html
 
 ## Related digital tools and frameworks
 
