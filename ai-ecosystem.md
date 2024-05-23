@@ -46,15 +46,13 @@ Not all of the tools have been tested, use at your own risk.
 
 | Model | Description | Link |
 |---|---|---|
-|||[Link](https://huggingface.co/facebook/opt-350m)|
-|||[Link](https://huggingface.co/CompVis/stable-diffusion-v1-4)|
-|||[Link](https://huggingface.co/stablediffusionapi/architecturerealmix)|
-|||[Link](https://huggingface.co/spaces/tonyassi/sketch-to-fashion-design)|
-|||[Link](https://huggingface.co/stablediffusionapi/product-design)|
-|||[Link](https://mistral.ai/news/mixtral-8x22b/)|
-|||[Link](https://huggingface.co/ahmed-naseer/designgen-23k-25k)|
-|||[Link]()|
-
+| Huggingface opt-350m | Open Pre-trained Transformer Language Models |[Link](https://huggingface.co/facebook/opt-350m)|
+| Huggingface stable-diffusion-v1-4| Diffusion-based text-to-image generation model |[Link](https://huggingface.co/CompVis/stable-diffusion-v1-4)|
+| Huggingface architecturerealmix| Realistic Architecture Image Renderings |[Link](https://huggingface.co/stablediffusionapi/architecturerealmix)|
+| Huggingface sketch-to-fashion-design| Does exactly that |[Link](https://huggingface.co/spaces/tonyassi/sketch-to-fashion-design)|
+| Huggingface product-design| Product Design sketch style|[Link](https://huggingface.co/stablediffusionapi/product-design)|
+| Huggingface designgen-23k-25k| Text-to-Image diffusen model |[Link](https://huggingface.co/ahmed-naseer/designgen-23k-25k)|
+| Mistral mixtral-8x22b|LLM model  fluent English, French, Italian, German, Spanish, strong mathematics and coding capabilities, pable of function calling, 4K tokens context window |[Link](https://mistral.ai/news/mixtral-8x22b/)|
 
 ## Training Data
 Opern Source training datasets.
