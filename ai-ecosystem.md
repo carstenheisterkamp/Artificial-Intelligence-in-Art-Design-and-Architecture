@@ -19,10 +19,11 @@ Not all of the tools have been tested, use at your own risk.
 | Civit AI                | A cloud-based AI platform that provides access to a variety of AI tools and services.                              | [Link](https://civitai.com/)  |
 | Cohere                  | Enables developers and enterprises to build LLM-powered applications with a focus on ease-of-use and data privacy. | [Link](https://cohere.com/) |
 | Eleuther                | Empowering Open-Source Artificial Intelligence Research.                                                           | [Link](https://www.eleuther.ai/) | 
-| Fireworks               | A cloud-based platform for building and deploying AI applications.                                                 | [Link](https://fireworks.ai/)  |
+| Fireworks               | A cloud-based platform for building and deploying pplications.                                                 | [Link](https://fireworks.ai/)  |
 | Flux                    | Julia Math, Machine learning stack.                                                                                | [Link](https://fluxml.ai/)|
 | Google AI               | Focuses on conducting research to advance AI and developing tools for real-world applications.                     | [Link](https://ai.google/) |
 | Google Colab            | A free cloud-based Jupyter notebook environment that allows you to write and execute Python code.                  | [Link](https://colab.research.google.com/) |
+| Gradio                  | Web Interface for custom models                                                                                    | [Link](https://www.gradio.app/) |
 | Hugging Face            | A platform for sharing and using natural language processing (NLP) models and datasets.                            | [Link](https://huggingface.co/) |
 | IBM AI                  | Leverages Watson to transform industries with data-driven insights and expertise.                                  | [Link](https://www.ibm.com/de-de/artificial-intelligence) |
 | Intel AI                | Focused on accelerating deep learning applications.                                     | [Link](https://www.intel.de/content/www/de/de/artificial-intelligence/overview.html) |
