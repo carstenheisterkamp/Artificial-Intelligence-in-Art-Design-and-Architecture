@@ -26,19 +26,22 @@ Not all of the tools have been tested, use at your own risk.
 | Hugging Face            | A platform for sharing and using natural language processing (NLP) models and datasets.                            | [Link](https://huggingface.co/) |
 | IBM AI                  | Leverages Watson to transform industries with data-driven insights and expertise.                                  | [Link](https://www.ibm.com/de-de/artificial-intelligence) |
 | Intel AI        | Focused on accelerating deep learning applications.                                                                        | [Link](https://www.intel.de/content/www/de/de/artificial-intelligence/overview.html) |
+| Jax                     | High Performance large scale numerical computing for machine learning written in Python                            | [Link](https://jax.readthedocs.io/) |
 | Jupyter AI              | Open source AI for Jupyter Notbooks                                                                                | [Link](https://github.com/jupyterlab/jupyter-ai) |
 | Kaggle                  | A community to share datasets, compete in machine learning competitions, and collaborate on projects.              | [Link](https://www.kaggle.com/) |
+| Keras                   | Deep learning API written in Python for PyTorch, Tensorflow and Jax                                                | [Link](https://keras.io/) |
 | Llama Index             | Open Source data framework and community for building LLM applications.                                            | [Link]( https://www.llamaindex.ai/)
 | MatLab Machine Learning | MatLab Deeplearning Toolbox.                                                                                       | [Link](https://de.mathworks.com/solutions/deep-learning/tutorials-examples.html) |
 | Meta AI                 | Dedicated to advancing AI through open research and innovation.                                                    | [Link](https://www.meta.ai/) |
 | Microsoft AI            | Encompasses a range of AI products and services to empower organizations and developers.                           | [Link](https://www.microsoft.com/de-de/ai) |
 | Mindverse               | AI Platform forcopywriting, research, image generation and productivity                                            | [Link](https://www.mind-verse.de/) |
 | Mistral                 | A cloud-based platform for training and deploying AI models.                                                       | [Link](https://mistral.ai/)|
-| Nvidia AI               | A comprehensive suite of AI  and resources, including GPUs, software, and training platforms.                 | [Link](https://www.nvidia.com/en-us/ai-data-science/) |
+| Nvidia AI               | A comprehensive suite of AI  and resources, including GPUs, software, and training platforms.                      | [Link](https://www.nvidia.com/en-us/ai-data-science/) |
 | OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | [Link](https://openai.com/)|
 | Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | [Link](https://www.paperspace.com/) |
 | PyTorch                 | Open source end-to-end platform for machine learning                                                               | [Link](https://pytorch.org/)
 | Replicate               | A platform for sharing and running machine learning experiments.                                                   | [Link](https://replicate.com/) |
+| Teachable Machine       | Create your own simple models for machine learning without technical knowledge .                                    | [Link](https://teachablemachine.withgoogle.com/) |
 | TensorFLow              | Open source end-to-end platform for machine learning                                                               | [Link](https://www.tensorflow.org/) |
 | Weights & Biases        | Build models , fine-tune LLMs, develop GenAI applications                                                          | https://wandb.ai/site |
 
