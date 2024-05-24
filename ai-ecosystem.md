@@ -84,6 +84,7 @@ Open data sources
 https://github.com/HumanSignal/label-studio
 https://github.com/HumanSignal/awesome-data-labeling
 https://www.superannotate.com/
+https://encord.com/
 CVAT
 awesome-data-labelling
 bbox-visualizer
