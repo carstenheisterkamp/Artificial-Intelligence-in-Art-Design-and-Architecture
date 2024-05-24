@@ -42,6 +42,7 @@ Not all of the tools have been tested, use at your own risk.
 | Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | [Link](https://www.paperspace.com/) |
 | PyTorch                 | Open source end-to-end platform for machine learning                                                               | [Link](https://pytorch.org/)
 | Replicate               | A platform for sharing and running machine learning experiments.                                                   | [Link](https://replicate.com/) |
+| SciKit                  | Datascience and machine learning with Python                                                                       | [Link](https://scikit-learn.org) |
 | Teachable Machine       | Create your own simple models for machine learning without technical knowledge.                                    | [Link](https://teachablemachine.withgoogle.com/) |
 | TensorFLow              | Open source end-to-end platform for machine learning                                                               | [Link](https://www.tensorflow.org/) |
 | Weights & Biases        | Build models , fine-tune LLMs, develop GenAI applications                                                          | [Link](https://wandb.ai/site) |
