@@ -68,7 +68,7 @@ Opern Source training datasets.
 | Laion | TBD | [Link](https://laion.ai/) |
 | Laion Aesthetic| TBD | [Link](https://github.com/LAION-AI/laion-datasets/tree/main/laion-aesthetic) |
 | UCI ML Repository | UC Irvine Machine Learning Repository |[Link](https://archive.ics.uci.edu/)|
-|||[Link]()|
+| Papers with Code | Open directory of selected Datasets |[Link](https://paperswithcode.com/)|
 |||[Link]()|
 
 
@@ -143,18 +143,19 @@ Commercial and free but commercial text generators
 
 ## Coding Assistance
 
-+ CodeLlama https://codellama.dev/
-+ GitHub CoPilot https://copilot.microsoft.com/
-+ https://www.tabnine.com/
-+ HuggingFace Starcoder https://huggingface.co/blog/starcoder
-+ https://openai.com/blog/openai-codex
-+ https://wpcode.com/
-+ https://www.askcodi.com/
-+ https://sourcegraph.com/cody
-+ https://www.aixcoder.com/
-+ https://replit.com/ai
-+ https://aws.amazon.com/codewhisperer/
-+ https://www.safurai.com/
+| Name | Description | Link |
+| --- | --- | --- |
+| aiXcoder | AI-based software development tool. | [Link](https://www.aixcoder.com/)|
+| AskCodi | AI programming assistant. | [Link](https://www.askcodi.com/) |
+| AWS CodeWhisperer | AI code generator. | [Link]( https://aws.amazon.com/codewhisperer/) |
+| CodeLlama | Large language models for code. | [Link](https://codellama.dev/) |
+| GitHub CoPilot | AI coding assistant. | [Link](https://copilot.microsoft.com/) |
+| HuggingFace Starcoder | 15.5B-parameter models for 80+ languages. | [Link](https://huggingface.co/blog/starcoder) |
+| OpenAI Codex | Converts natural language into code. | [Link](https://openai.com/blog/openai-codex) |
+| Replit AI | Code completion tool. | [Link](https://replit.com/ai) |
+| Sourcegraph Cody | AI coding assistant. |  [Link](https://sourcegraph.com/cody) |
+| Tabnine | Generative AI for software development. |  [Link](https://www.tabnine.com/) |
+| WPCode | Code snippets plugin for WordPress. | [Link](https://wpcode.com/) |
 
 ## Developer Tools
 
@@ -372,7 +373,8 @@ Critical writings in AI and technology topics
 + https://huggingface.co/blog
 + Wired Article Database https://www.wired.com/category/artificial-intelligence/
 
-## Further Readngs
+## Further Readings
+https://paperswithcode.com/
 https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 https://www.latimes.com/projects/artificial-intelligence-generated-art-ownership-bias-dall-e-midjourney/
 https://www.theartnewspaper.com/2024/04/05/on-process-refik-anadol-seeks-to-demystify-ai-art-by-showing-how-it-is-put-together
