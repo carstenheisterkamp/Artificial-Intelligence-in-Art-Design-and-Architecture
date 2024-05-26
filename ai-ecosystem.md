@@ -400,6 +400,7 @@ Helena Sarin https://aiartists.org/helena-sarin
 https://www.nvidia.com/en-us/research/ai-art-gallery/artists/helena-sarin/
 Obvious Kollektiv 
 + https://www.instagram.com/jeanjacquesbalzac
++ https://www.instagram.com/carlosbannon/
 + https://www.instagram.com/benny_drop
 + https://www.instagram.com/niceaunties
 + https://www.instagram.com/ai_clothingdaily
