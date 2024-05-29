@@ -37,6 +37,7 @@ Not all of the tools have been tested, use at your own risk.
 | Microsoft AI            | Encompasses a range of AI products and services to empower organizations and developers.                           | [Link](https://www.microsoft.com/de-de/ai) |
 | Mindverse               | AI Platform forcopywriting, research, image generation and productivity                                            | [Link](https://www.mind-verse.de/) |
 | Mistral                 | A cloud-based platform for training and deploying AI models.                                                       | [Link](https://mistral.ai/)|
+| Ml5                     | ML JavaScript library for p5js                                                                                     |[Link](https://github.com/ml5js/ml5-library)
 | Nvidia AI               | A comprehensive suite of AI  and resources, including GPUs, software, and training platforms.                      | [Link](https://www.nvidia.com/en-us/ai-data-science/) |
 | OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | [Link](https://openai.com/)|
 | Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | [Link](https://www.paperspace.com/) |
