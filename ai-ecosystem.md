@@ -389,8 +389,25 @@ The art of artificial intelligence, with Eryk Salvaggio https://www.youtube.com/
 
 
 ## AI Artists
-https://aiartists.org/
+
 Mario Klingemann
+Joy Buolamwini
+Sougwen Chung
+Wayne McGregor
+Tega Brain
+Stephanie Dinkins
+Refik Anadol
+Mimi Onuoha
+Golan Levin
+Lauren McCarthy
+Jon McCormack
+Taryn Southern
+Pindar Van Arman
+Scott Eaton
+Lydia Kostopoulos,Alexander Reben, Gene Kogan, Mike Tyka
+Sarah Mehoyas, David Young,Ross Goodwin,Robbie Barrat,Tom White,Sofia Crespo, Jake Elwes,Daniel Ambrosi,Christian “Mio” Loclair,Dariusz Gross,Ben Snell,Michael Sedbon,Roman Lipski
+Anna Ridler,Philipp Schmitt,Lilla Locurto & Bill Outcault,Ahmed Elgammal,Alexander Mordvintsev
+https://radicalnorms.com/
 Anna Ridler https://annaridler.com/
 Memo Akten https://www.memo.tv/
 James Bridle https://jamesbridle.com/
