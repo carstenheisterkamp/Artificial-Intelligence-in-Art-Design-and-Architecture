@@ -383,6 +383,8 @@ https://www.nngroup.com/articles/ai-paradigm/
 https://openai.com/index/video-generation-models-as-world-simulators/
 https://cacm.acm.org/research/autonomous-tools-and-design/
 
+https://www.noemamag.com/
+
 ## Videos and Podcasts
 https://schedule.sxsw.com/2023/events/PP122773
 The art of artificial intelligence, with Eryk Salvaggio https://www.youtube.com/watch?v=AyNDi0y13Ig
