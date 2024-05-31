@@ -168,7 +168,7 @@ Commercial and free but commercial text generators
 + https://neo4j.com/
 
 ## Image Generators
-
+https://github.com/easydiffusion/easydiffusion?tab=readme-ov-file#installation
 + https://www.alpacaml.com/
 + Adobe Firefly https://www.adobe.com/de/products/firefly.html
 + Adobe Sensei https://business.adobe.com/products/sensei/adobe-sensei.html
