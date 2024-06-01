@@ -103,6 +103,8 @@ https://labelstud.io/
 LabelBox
 Prodigy
 
+## Tools
+https://infranodus.com/
 
 ## Text Generators
 Commercial and free but commercial text generators
@@ -418,6 +420,10 @@ Hito Steyerl https://de.wikipedia.org/wiki/Hito_Steyerl
 
 Helena Sarin https://aiartists.org/helena-sarin
 https://www.nvidia.com/en-us/research/ai-art-gallery/artists/helena-sarin/
+https://www.cyberneticforests.com/
+https://exposing.ai/
+
+
 Obvious Kollektiv 
 + https://www.instagram.com/jeanjacquesbalzac
 + https://www.instagram.com/carlosbannon/
