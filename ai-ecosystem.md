@@ -387,10 +387,10 @@ https://cacm.acm.org/research/autonomous-tools-and-design/
 
 https://www.noemamag.com/
 
-## Videos and Podcasts
+## Videos, Podcasts, Magazines
 https://schedule.sxsw.com/2023/events/PP122773
 The art of artificial intelligence, with Eryk Salvaggio https://www.youtube.com/watch?v=AyNDi0y13Ig
-
+https://promptmagazine.it/copia-di-interviews
 
 ## AI Artists
 
