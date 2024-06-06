@@ -422,7 +422,7 @@ Helena Sarin https://aiartists.org/helena-sarin
 https://www.nvidia.com/en-us/research/ai-art-gallery/artists/helena-sarin/
 https://www.cyberneticforests.com/
 https://exposing.ai/
-
+https://znah.net/
 https://miketyka.com/
 
 
