@@ -201,7 +201,7 @@ https://github.com/easydiffusion/easydiffusion?tab=readme-ov-file#installation
 + Fashion photos https://botika.io/ 
 
 ## Image Editing
-
++ https://github.com/Acly/krita-ai-diffusion
 + https://skylum.com/de/luminar
 + https://www.topazlabs.com/
 + https://picwish.com/
