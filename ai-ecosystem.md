@@ -47,6 +47,7 @@ Not all of the tools have been tested, use at your own risk.
 | Teachable Machine       | Create your own simple models for machine learning without technical knowledge.                                    | [Link](https://teachablemachine.withgoogle.com/) |
 | TensorFLow              | Open source end-to-end platform for machine learning                                                               | [Link](https://www.tensorflow.org/) |
 | Weights & Biases        | Build models , fine-tune LLMs, develop GenAI applications                                                          | [Link](https://wandb.ai/site) |
+| XCool.ai                | AI Innovation Platform                                                                                             | [Link](https://www.xkool.ai/) |
 
 ## Selected Models
 
