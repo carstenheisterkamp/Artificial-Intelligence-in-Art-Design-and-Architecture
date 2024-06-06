@@ -423,12 +423,15 @@ https://www.nvidia.com/en-us/research/ai-art-gallery/artists/helena-sarin/
 https://www.cyberneticforests.com/
 https://exposing.ai/
 
+https://miketyka.com/
+
 
 Obvious Kollektiv 
 + https://www.instagram.com/jeanjacquesbalzac
 + https://www.instagram.com/carlosbannon/
 + https://www.instagram.com/benny_drop
 + https://www.instagram.com/niceaunties
++ https://www.instagram.com/fabiocatapano/
 + https://www.instagram.com/ai_clothingdaily
 
 ## AI Influencers & Agencies
@@ -439,5 +442,6 @@ Obvious Kollektiv
 + https://www.theclueless.ai/models
 + https://www.instagram.com/fit_aitana/
 + https://www.instagram.com/fashionweek.ai/
++ 
 
 
