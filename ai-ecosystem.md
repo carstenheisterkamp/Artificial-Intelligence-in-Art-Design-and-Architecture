@@ -409,8 +409,23 @@ Jon McCormack
 Taryn Southern
 Pindar Van Arman
 Scott Eaton
-Lydia Kostopoulos,Alexander Reben, Gene Kogan, Mike Tyka
-Sarah Mehoyas, David Young,Ross Goodwin,Robbie Barrat,Tom White,Sofia Crespo, Jake Elwes,Daniel Ambrosi,Christian “Mio” Loclair,Dariusz Gross,Ben Snell,Michael Sedbon,Roman Lipski
+Lydia Kostopoulos,
+Alexander Reben, 
+Gene Kogan, 
+Mike Tyka
+Sarah Mehoyas, 
+David Young,
+Ross Goodwin,
+Robbie Barrat,
+Tom White,
+Sofia Crespo, 
+Jake Elwes,
+Daniel Ambrosi,
+Christian “Mio” Loclair,
+Dariusz Gross,
+Ben Snell,
+Michael Sedbon,
+Roman Lipski
 Anna Ridler,
 Philipp Schmitt,
 Lilla Locurto & Bill Outcault,
