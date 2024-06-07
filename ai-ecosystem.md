@@ -411,21 +411,27 @@ Pindar Van Arman
 Scott Eaton
 Lydia Kostopoulos,Alexander Reben, Gene Kogan, Mike Tyka
 Sarah Mehoyas, David Young,Ross Goodwin,Robbie Barrat,Tom White,Sofia Crespo, Jake Elwes,Daniel Ambrosi,Christian “Mio” Loclair,Dariusz Gross,Ben Snell,Michael Sedbon,Roman Lipski
-Anna Ridler,Philipp Schmitt,Lilla Locurto & Bill Outcault,Ahmed Elgammal,Alexander Mordvintsev
-https://radicalnorms.com/
-Anna Ridler https://annaridler.com/
-Memo Akten https://www.memo.tv/
-James Bridle https://jamesbridle.com/
-Holly Herndon https://herndondryhurst.studio/
-Hito Steyerl https://de.wikipedia.org/wiki/Hito_Steyerl
+Anna Ridler,
+Philipp Schmitt,
+Lilla Locurto & Bill Outcault,
+Ahmed Elgammal,
+Alexander Mordvintsev
+Rachel Rose
+Radical Norms https://radicalnorms.com/  
+Anna Ridler https://annaridler.com/  
+Memo Akten https://www.memo.tv/  
+James Bridle https://jamesbridle.com/  
+Holly Herndon https://herndondryhurst.studio/  
+Hito Steyerl https://de.wikipedia.org/wiki/Hito_Steyerl  
 
-Helena Sarin https://aiartists.org/helena-sarin
-https://www.nvidia.com/en-us/research/ai-art-gallery/artists/helena-sarin/
-https://www.cyberneticforests.com/
-https://exposing.ai/
-https://znah.net/
-https://miketyka.com/
-
+Helena Sarin https://aiartists.org/helena-sarin  
+https://www.nvidia.com/en-us/research/ai-art-gallery/artists/helena-sarin/  
+https://www.cyberneticforests.com/  
+https://exposing.ai/  
+https://znah.net/  
+https://miketyka.com/  
+Trevor Paglen https://paglen.studio/  
+Ian Chenghttp://iancheng.com/  
 
 Obvious Kollektiv 
 + https://www.instagram.com/jeanjacquesbalzac
