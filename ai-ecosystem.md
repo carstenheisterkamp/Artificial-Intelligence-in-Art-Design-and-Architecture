@@ -395,9 +395,9 @@ https://promptmagazine.it/copia-di-interviews
 
 ## AI Artists
 
-Mario Klingemann
-Joy Buolamwini
-Sougwen Chung
+Mario Klingemann  
+Joy Buolamwini  
+Sougwen Chung  
 Wayne McGregor
 Tega Brain
 Stephanie Dinkins
