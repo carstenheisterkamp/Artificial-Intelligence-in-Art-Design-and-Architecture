@@ -141,6 +141,7 @@ Commercial and free but commercial text generators
 | Moonbeam | An AI writing assistant specifically trained to help with long-form content such as essays, stories, articles, and blogs. | [Moonbeam](https://www.gomoonbeam.com/) |
 | Postwise | An AI tool that uses AI to write, schedule, and grow your Twitter and LinkedIn accounts with engaging content. | [Postwise](https://postwise.ai/) |
 | Quillbot | An AI-powered paraphrasing tool that helps you rephrase text in various styles and integrates with writing tools you already use. | [Quillbot](https://quillbot.com/) |
+| Sudo Write| Writing Assistant | [Link](https://www.sudowrite.com/) |
 | Writesonic | An AI text generator that creates SEO-friendly content for blogs, ads, and more, with a variety of writing tools. | [Writesonic]() |
 | Yarnit | A platform that uses AI to help you craft engaging stories and content with ease. | [Yarnit]() |
 
