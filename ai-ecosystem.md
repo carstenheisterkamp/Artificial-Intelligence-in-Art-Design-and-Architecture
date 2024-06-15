@@ -185,6 +185,7 @@ https://github.com/easydiffusion/easydiffusion?tab=readme-ov-file#installation
 + LooxAI Architecture Visualisation https://www.lookx.ai/
 + https://www.canva.com/de_de/ai-image-generator/
 + https://dreamstudio.ai/
++ Lokal installier https://dreamstudio.com/studio/
 + https://image.computer/
 + https://leonardo.ai/
 + ComfyUI https://github.com/comfyanonymous/ComfyUI
@@ -301,6 +302,7 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 + ComfyUI https://github.com/comfyanonymous/ComfyUI
 + https://www.synthesia.io/
 + https://www.steve.ai/
++ https://lumalabs.ai/
 
 ## Video Editing
 
