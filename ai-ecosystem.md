@@ -388,7 +388,6 @@ https://www.theartnewspaper.com/2024/04/05/on-process-refik-anadol-seeks-to-demy
 https://www.nngroup.com/articles/ai-paradigm/
 https://openai.com/index/video-generation-models-as-world-simulators/
 https://cacm.acm.org/research/autonomous-tools-and-design/
-
 https://www.noemamag.com/
 
 ## Videos, Podcasts, Magazines
@@ -467,6 +466,8 @@ Obvious Kollektiv
 + https://www.theclueless.ai/models
 + https://www.instagram.com/fit_aitana/
 + https://www.instagram.com/fashionweek.ai/
-+ 
+
+## Links
++ https://github.com/steven2358/awesome-generative-ai
 
 
