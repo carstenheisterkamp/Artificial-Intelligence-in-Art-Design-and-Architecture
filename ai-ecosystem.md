@@ -83,7 +83,6 @@ Open data sources
 | Common Crawl | TBD |[Link](https://commoncrawl.org/) |
 
 ## Labeling and Annotation
-
 https://github.com/HumanSignal/label-studio
 https://github.com/HumanSignal/awesome-data-labeling
 https://www.superannotate.com/
@@ -164,7 +163,7 @@ Commercial and free but commercial text generators
 
 ## Developer Tools
 + https://www.cursor.com/
-+ VSCode CodePilot
++ Github CodePilot https://github.com/features/copilot
 + https://circleci.com/
 + https://www.framer.com/features/ai/
 + https://coderabbit.ai/
