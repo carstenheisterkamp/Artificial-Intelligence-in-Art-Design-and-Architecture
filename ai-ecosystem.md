@@ -163,7 +163,8 @@ Commercial and free but commercial text generators
 | WPCode | Code snippets plugin for WordPress. | [Link](https://wpcode.com/) |
 
 ## Developer Tools
-
++ https://www.cursor.com/
++ VSCode CodePilot
 + https://circleci.com/
 + https://www.framer.com/features/ai/
 + https://coderabbit.ai/
@@ -172,7 +173,7 @@ Commercial and free but commercial text generators
 + https://neo4j.com/
 
 ## Image Generators
-https://github.com/easydiffusion/easydiffusion?tab=readme-ov-file#installation
++ https://github.com/easydiffusion/easydiffusion?tab=readme-ov-file#installation
 + https://www.alpacaml.com/
 + Adobe Firefly https://www.adobe.com/de/products/firefly.html
 + Adobe Sensei https://business.adobe.com/products/sensei/adobe-sensei.html
@@ -211,11 +212,9 @@ https://github.com/easydiffusion/easydiffusion?tab=readme-ov-file#installation
 + https://letsenhance.io/
 
 ## Architecture
-
 https://www.autodesk.eu/solutions/autodesk-ai
 
 ## Design
-
 + https://www.autodesk.eu/solutions/autodesk-ai
 + https://looka.com
 + https://designs.ai
@@ -226,11 +225,11 @@ https://www.autodesk.eu/solutions/autodesk-ai
 + https://tome.app
 
 ## UX Design
-
 https://www.usegalileo.ai/
+figma
+
 
 ## Fashion
-
 + https://thenewblack.ai/
 + https://www.ca.la/
 + https://lalaland.ai/
@@ -245,7 +244,6 @@ https://www.usegalileo.ai/
 + https://www.designovel.com/ Trend prediction
 
 ## Audio Generators
-
 + OpenAI MuseNet https://openai.com/research/musenet
 + Suno Song generation https://suno.com/
 + LalalAI AI powered audio tools https://www.lalal.ai/
@@ -269,11 +267,9 @@ https://www.usegalileo.ai/
 + https://elevenlabs.io/
 + https://www.assemblyai.com/
 + https://play.ht/
-
-https://store.dreamtonics.com/product/solaria-voice-database/
++ https://store.dreamtonics.com/product/solaria-voice-database/
 
 ## Audio Production Tools
-
 + Magenta Studio Open Source Plugins for Ableton Live https://magenta.tensorflow.org/studio
 + https://www.landr.com/de/audio-online-mastern/
 + https://soniccharge.com/synplant
@@ -296,7 +292,6 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 + https://moises.ai/
 
 ## Video Generators
-
 + RunwayML https://runwayml.com/
 + Stability AI https://stability.ai/
 + https://leonardo.ai/
@@ -330,20 +325,17 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 + https://genus.ai/
 
 ## Avatar
-
 + https://photoshot.app/
 + https://amazing.photos/
 
 ## Agents, Bots and Assistants
-
-+https://www.crewai.com/
++ https://www.crewai.com/
 + https://www.chatbotui.com/
 + https://librechat.ai/
 + https://www.trywilco.com/sierra
 + https://learn.microsoft.com/en-us/semantic-kernel/overview/
 
 ## Search Engines
-
 + https://www.perplexity.ai/
 + https://vectara.com/
 + Bing CoPilot https://bing.com
@@ -355,11 +347,9 @@ https://store.dreamtonics.com/product/solaria-voice-database/
 + tbd
 
 ## Art Protection
-
 + https://glaze.cs.uchicago.edu/what-is-glaze.html
 
 ## Related digital tools and frameworks
-
 Tools that support or integrate AI into its workflow
 
 + Touch Designer https://derivative.ca/
