@@ -263,9 +263,10 @@ https://www.usegalileo.ai/
 + https://rightsify.com/hydra/
 + https://boomy.com/
 + https://dreamtonics.com/synthesizerv/
++ https://elevenlabs.io/
 
-## Text to speech
-
+## Text to speech, speech to speech
++ https://elevenlabs.io/
 + https://www.assemblyai.com/
 + https://play.ht/
 
