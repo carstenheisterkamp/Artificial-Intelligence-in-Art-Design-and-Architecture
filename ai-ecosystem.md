@@ -60,6 +60,10 @@ Not all of the tools have been tested, use at your own risk.
 | Huggingface product-design| Product Design sketch style|[Link](https://huggingface.co/stablediffusionapi/product-design)|
 | Huggingface designgen-23k-25k| Text-to-Image diffusen model |[Link](https://huggingface.co/ahmed-naseer/designgen-23k-25k)|
 | Mistral mixtral-8x22b|LLM model, fluent EN, FR, IT, GER, SP, strong mathematics and coding capabilities, function calling, 4K tokens context window | [Link](https://mistral.ai/news/mixtral-8x22b/) |
+| PyTorch Hub | https://pytorch.org/hub/ |
+| Kaggle Models | https://www.kaggle.com/models |
+| Github Model Zoo | https://github.com/BVLC/caffe/wiki/Model-Zoo |
+
 
 ## Training Data
 Opern Source training datasets.
