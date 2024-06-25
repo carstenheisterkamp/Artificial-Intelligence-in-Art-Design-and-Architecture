@@ -446,6 +446,7 @@ Ian Chenghttp://iancheng.com/
 
 Obvious Kollektiv 
 + https://www.instagram.com/jeanjacquesbalzac
++ https://www.instagram.com/doopiidoo/
 + https://www.instagram.com/carlosbannon/
 + https://www.instagram.com/benny_drop
 + https://www.instagram.com/niceaunties
