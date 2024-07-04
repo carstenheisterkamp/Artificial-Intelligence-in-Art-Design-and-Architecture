@@ -443,6 +443,7 @@ https://znah.net/
 https://miketyka.com/  
 Trevor Paglen https://paglen.studio/  
 Ian Chenghttp://iancheng.com/  
+https://aixdesign.space
 
 Obvious Kollektiv 
 + https://www.instagram.com/jeanjacquesbalzac
@@ -452,6 +453,7 @@ Obvious Kollektiv
 + https://www.instagram.com/niceaunties
 + https://www.instagram.com/fabiocatapano/
 + https://www.instagram.com/ai_clothingdaily
++ https://www.instagram.com/aixdesign.co/
 
 ## AI Influencers & Agencies
 
