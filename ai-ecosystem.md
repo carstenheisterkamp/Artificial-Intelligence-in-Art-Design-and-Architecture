@@ -256,6 +256,7 @@ figma
 | Boomy | Platform for creating and releasing music | [https://boomy.com/](https://boomy.com/) |
 | Dreamtonics Synthesizerv | AI-powered synthesizer | [https://dreamtonics.com/synthesizerv/](https://dreamtonics.com/synthesizerv/) |
 | ElevenLabs | AI-powered speech synthesis and voice cloning | [https://elevenlabs.io/](https://elevenlabs.io/) |
+| iLovesong | create custom tracks from audio files or own voice | https://ilovesong.ai/ |
 | Lalal.AI | AI-powered audio tools for music production | [https://www.lalal.ai/](https://www.lalal.ai/) |
 | Loudly | AI-powered music platform for artists and labels | [https://www.loudly.com/](https://www.loudly.com/) |
 | Mubert | AI-powered music generation for various genres | [https://mubert.com/](https://mubert.com/) |
@@ -270,33 +271,39 @@ figma
 | Udio | AI-powered music platform for artists and labels | [https://www.udio.com/home](https://www.udio.com/home) |
 | Google AI Test Kitchen - Music FX | Experimental AI tool for audio effects | [https://aitestkitchen.withgoogle.com/tools/music-fx](https://aitestkitchen.withgoogle.com/tools/music-fx) |
 
-## Text to speech, speech to speech
-+ https://elevenlabs.io/
-+ https://www.assemblyai.com/
-+ https://play.ht/
-+ https://store.dreamtonics.com/product/solaria-voice-database/
+## Text to Speech, Speech to Speech
+
+| Name | Description | Link |
+|---|---|---|
+| AssemblyAI | Cloud-based speech recognition and text-to-speech API | https://www.assemblyai.com/ |
+| ElevenLabs | AI-powered speech synthesis and voice cloning | https://elevenlabs.io/ |
+| Play.ht | AI voice cloning and text-to-speech platform | https://play.ht/ |
+| Solaria Voice Database (Dreamtonics) | Voice database for realistic text-to-speech | https://store.dreamtonics.com/product/solaria-voice-database/ |
 
 ## Audio Production Tools
-+ Magenta Studio Open Source Plugins for Ableton Live https://magenta.tensorflow.org/studio
-+ https://www.landr.com/de/audio-online-mastern/
-+ https://soniccharge.com/synplant
-+ https://www.voice-swap.ai/
-+ https://www.waves.com/plugins/cosmos-sample-finder
-+ https://samplab.com/
-+ https://www.sonible.com/smartgate/
-+ https://www.sonible.com/purecomp/
-+ https://www.xlnaudio.com/
-+ https://algonaut.audio/
-+ https://jamahook.com/
-+ https://wavtool.com/
-+ https://www.orbplugins.com/orb-producer-suite/
-+ https://www.tuneflow.com/
-+ https://audialab.com/
-+ https://boomy.com/
-+ https://www.beatoven.ai/
-+ https://amadeuscode.com/app/en
-+ https://audiomodern.com/shop/plugins/playbeat-3/
-+ https://moises.ai/
+
+| Name | Description | Link |
+|---|---|---|
+| Amadeus Code | AI-powered music composition platform | https://amadeuscode.com/app/en |
+| Algonaut | AI-powered music production tools | https://algonaut.audio/ |
+| Audiol**a**b | Audio editing and mastering software | https://audialab.com/ |
+| Beatoven | AI-powered music generation platform | https://www.beatoven.ai/ |
+| Boomy | Platform for creating and releasing music | https://boomy.com/ |
+| Cosmos Sample Finder (Waves) | AI-powered sample search plugin | https://www.waves.com/plugins/cosmos-sample-finder |
+| JamHook | Web-based audio collaboration platform | https://jamahook.com/ |
+| Landr | Online audio mastering service | https://www.landr.com/de/audio-online-mastern/ |
+| Magenta Studio (Open Source Plugins for Ableton Live) |  Machine learning plugins for music creation | https://magenta.tensorflow.org/studio |
+| Moises.ai | AI-powered audio separation tool | https://moises.ai/ |
+| Orb Producer Suite | Suite of virtual instruments and effects plugins | https://www.orbplugins.com/orb-producer-suite/ |
+| Playbeat (Audiomodern) | Sample-based rhythm creation plugin | https://audiomodern.com/shop/plugins/playbeat-3/ |
+| PureComp (Sonible) | AI-powered intelligent compressor plugin | https://www.sonible.com/purecomp/ |
+| Samplab | Online sample library and beat creation tool  | https://samplab.com/ |
+| SmartGate (Sonible) | AI-powered intelligent gate plugin | https://www.sonible.com/smartgate/ |
+| Sononym (Voice-swap.ai) | Text-to-speech voice cloning tool | https://www.voice-swap.ai/ |
+| Sonic Charge |  Software developer known for Synplant synthesizer | https://soniccharge.com/synplant |
+| Tuneflow | AI-powered music composition platform | https://www.tuneflow.com/ |
+| Wav tool | Web-based audio editing tool | https://wavtool.com/ |
+| XLN Audio | Developer of virtual instruments and plugins | https://www.xlnaudio.com/ |
 
 ## Video Generators
 + RunwayML https://runwayml.com/
