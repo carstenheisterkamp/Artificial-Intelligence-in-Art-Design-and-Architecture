@@ -87,11 +87,14 @@ Open data sources
 | Common Crawl | TBD |[Link](https://commoncrawl.org/) |
 
 ## Labeling and Annotation
+
+| Provider | Description | Link |
+|---|---|---|
+https://github.com/cvat-ai
 https://github.com/HumanSignal/label-studio
 https://github.com/HumanSignal/awesome-data-labeling
 https://www.superannotate.com/
 https://encord.com/
-CVAT
 awesome-data-labelling
 bbox-visualizer
 dataqa
@@ -102,12 +105,18 @@ Labelme
 VoTT
 Yolo-mark
 
-Kommerziell
+### Kommerziell
+| Provider | Description | Link |
+|---|---|---|
+https://www.cvat.ai/
 https://labelstud.io/
 LabelBox
 Prodigy
 
 ## Tools
+
+| Provider | Description | Link |
+|---|---|---|
 https://infranodus.com/
 
 ## Text Generators
@@ -256,6 +265,7 @@ figma
 | Boomy | Platform for creating and releasing music | [https://boomy.com/](https://boomy.com/) |
 | Dreamtonics Synthesizerv | AI-powered synthesizer | [https://dreamtonics.com/synthesizerv/](https://dreamtonics.com/synthesizerv/) |
 | ElevenLabs | AI-powered speech synthesis and voice cloning | [https://elevenlabs.io/](https://elevenlabs.io/) |
+| Hifi GAN | Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis | https://github.com/jik876/hifi-gan |
 | iLovesong | create custom tracks from audio files or own voice | https://ilovesong.ai/ |
 | Lalal.AI | AI-powered audio tools for music production | [https://www.lalal.ai/](https://www.lalal.ai/) |
 | Loudly | AI-powered music platform for artists and labels | [https://www.loudly.com/](https://www.loudly.com/) |
