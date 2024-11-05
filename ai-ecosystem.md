@@ -246,29 +246,29 @@ figma
 + https://www.heuritech.com/ Trend prediction
 + https://www.designovel.com/ Trend prediction
 
-## Audio-Generatoren
+## Audio Generators
 
-| Name | Beschreibung | Link |
+| Name | Description | Link |
 |---|---|---|
-| AIVA | KI-Komponist für Filmmusik und Videospiele | [https://www.aiva.ai/](https://www.aiva.ai/) |
-| Aimi.fm | KI-basierte Musikplattform für personalisierte Playlists | [https://www.aimi.fm/](https://www.aimi.fm/) |
-| Audiocraft (Facebook) | Open-Source-Forschungsprojekt für Audio-Generierung | [https://github.com/facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) |
-| Boomy | Plattform zum Erstellen und Veröffentlichen von Musik | [https://boomy.com/](https://boomy.com/) |
-| Dreamtonics Synthesizerv | KI-basierter Synthesizer | [https://dreamtonics.com/synthesizerv/](https://dreamtonics.com/synthesizerv/) |
-| ElevenLabs | KI-basierte Sprachsynthese und Stimmklonung | [https://elevenlabs.io/](https://elevenlabs.io/) |
-| Lalal.AI | KI-gestützte Audio-Tools für Musikproduktion | [https://www.lalal.ai/](https://www.lalal.ai/) |
-| Loudly | KI-basierte Musikplattform für Künstler und Labels | [https://www.loudly.com/](https://www.loudly.com/) |
-| Mubert | KI-basierte Musikgenerierung für verschiedene Genres | [https://mubert.com/](https://mubert.com/) |
-| Myra | KI-basierte Musikplattform für personalisierte Playlists | [https://myra.io/](https://myra.io/) |
-| OpenAI MuseNet | (Ehemaliges) KI-Modell zur Generierung von Musik | [https://openai.com/research/musenet](https://openai.com/research/musenet) |
-| Riffgen | KI-basierter Riff-Generator für Gitarristen | [https://www.riffgen.com/](https://www.riffgen.com/) |
-| Riffusion | KI-basierte Musikgenerierung basierend auf Textbeschreibungen | [https://www.riffusion.com/](https://www.riffusion.com/) |
-| Rightsify Hydra | KI-basierte Musikproduktionsplattform | [https://rightsify.com/hydra/](https://rightsify.com/hydra/) |
-| Soundraw | KI-basierte Musikplattform für Hintergrundmusik | [https://soundraw.io/](https://soundraw.io/) |
-| Soundful | KI-basierte Musikplattform für Künstler und Labels | [https://soundful.co](https://soundful.co) |
-| Suno | KI-basierte Musikplattform für personalisierte Playlists | [https://suno.com/](https://suno.com/) |
-| Udio | KI-basierte Musikplattform für Künstler und Labels | [https://www.udio.com/home](https://www.udio.com/home) |
-| Google AI Test Kitchen - Music FX | Experimentales KI-Tool für Audioeffekte | [https://aitestkitchen.withgoogle.com/tools/music-fx](https://aitestkitchen.withgoogle.com/tools/music-fx) |
+| AIVA | AI composer for film scores and video games | [https://www.aiva.ai/](https://www.aiva.ai/) |
+| Aimi.fm | AI-powered music platform for personalized playlists | [https://www.aimi.fm/](https://www.aimi.fm/) |
+| Audiocraft (Facebook) | Open-source research project for audio generation | [https://github.com/facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) |
+| Boomy | Platform for creating and releasing music | [https://boomy.com/](https://boomy.com/) |
+| Dreamtonics Synthesizerv | AI-powered synthesizer | [https://dreamtonics.com/synthesizerv/](https://dreamtonics.com/synthesizerv/) |
+| ElevenLabs | AI-powered speech synthesis and voice cloning | [https://elevenlabs.io/](https://elevenlabs.io/) |
+| Lalal.AI | AI-powered audio tools for music production | [https://www.lalal.ai/](https://www.lalal.ai/) |
+| Loudly | AI-powered music platform for artists and labels | [https://www.loudly.com/](https://www.loudly.com/) |
+| Mubert | AI-powered music generation for various genres | [https://mubert.com/](https://mubert.com/) |
+| Myra | AI-powered music platform for personalized playlists | [https://myra.io/](https://myra.io/) |
+| OpenAI MuseNet | (Former) AI model for generating music | [https://openai.com/research/musenet](https://openai.com/research/musenet) |
+| Riffgen | AI-powered riff generator for guitarists | [https://www.riffgen.com/](https://www.riffgen.com/) |
+| Riffusion | AI-powered music generation based on text descriptions | [https://www.riffusion.com/](https://www.riffusion.com/) |
+| Rightsify Hydra | AI-powered music production platform | [https://rightsify.com/hydra/](https://rightsify.com/hydra/) |
+| Soundraw | AI-powered music platform for background music | [https://soundraw.io/](https://soundraw.io/) |
+| Soundful | AI-powered music platform for artists and labels | [https://soundful.co](https://soundful.co) |
+| Suno | AI-powered music platform for personalized playlists | [https://suno.com/](https://suno.com/) |
+| Udio | AI-powered music platform for artists and labels | [https://www.udio.com/home](https://www.udio.com/home) |
+| Google AI Test Kitchen - Music FX | Experimental AI tool for audio effects | [https://aitestkitchen.withgoogle.com/tools/music-fx](https://aitestkitchen.withgoogle.com/tools/music-fx) |
 
 ## Text to speech, speech to speech
 + https://elevenlabs.io/
