@@ -50,7 +50,6 @@ Not all of the tools have been tested, use at your own risk.
 | XCool.ai                | AI Innovation Platform                                                                                             | [Link](https://www.xkool.ai/) |
 
 ## Selected Models
-
 | Model | Description | Link |
 |---|---|---|
 | Huggingface opt-350m | Open Pre-trained Transformer Language Models |[Link](https://huggingface.co/facebook/opt-350m)|
@@ -265,6 +264,7 @@ figma
 | Boomy | Platform for creating and releasing music | [https://boomy.com/](https://boomy.com/) |
 | Dreamtonics Synthesizerv | AI-powered synthesizer | [https://dreamtonics.com/synthesizerv/](https://dreamtonics.com/synthesizerv/) |
 | ElevenLabs | AI-powered speech synthesis and voice cloning | [https://elevenlabs.io/](https://elevenlabs.io/) |
+| Google AI  Test Kitchen - Music FX | Experimental AI tool for audio effects | [https://aitestkitchen.withgoogle.com/tools/music-fx](https://aitestkitchen.withgoogle.com/tools/music-fx) |
 | Hifi GAN | Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis | https://github.com/jik876/hifi-gan |
 | iLovesong | create custom tracks from audio files or own voice | https://ilovesong.ai/ |
 | Lalal.AI | AI-powered audio tools for music production | [https://www.lalal.ai/](https://www.lalal.ai/) |
@@ -279,7 +279,8 @@ figma
 | Soundful | AI-powered music platform for artists and labels | [https://soundful.co](https://soundful.co) |
 | Suno | AI-powered music platform for personalized playlists | [https://suno.com/](https://suno.com/) |
 | Udio | AI-powered music platform for artists and labels | [https://www.udio.com/home](https://www.udio.com/home) |
-| Google AI Test Kitchen - Music FX | Experimental AI tool for audio effects | [https://aitestkitchen.withgoogle.com/tools/music-fx](https://aitestkitchen.withgoogle.com/tools/music-fx) |
+| WaveRNN | | [WaveRNN https://github.com/fatchord/WaveRNN](WaveRNN https://github.com/fatchord/WaveRNN)|
+
 
 ## Text to Speech, Speech to Speech
 
