@@ -63,7 +63,6 @@ Not all of the tools have been tested, use at your own risk.
 | Mistral mixtral-8x22b | LLM model with multilingual and coding capabilities | [Link](https://mistral.ai/news/mixtral-8x22b/) |
 | PyTorch Hub | A repository of pre-trained models for PyTorch | [Link](https://pytorch.org/hub/) |
 
-
 ## Training Data
 Opern Source training datasets.
 
@@ -101,6 +100,7 @@ Open data sources
 | Yolo-mark | Tool for labeling images for YOLO object detection | [Link](https://github.com/AlexeyAB/Yolo_mark) |
 
 ### Kommerziell
+
 | Provider | Description | Link |
 |---|---|---|
 | CVAT | Open-source annotation tool for computer vision | [Link](https://www.cvat.ai/) |
@@ -108,28 +108,23 @@ Open data sources
 | Label Studio | Open-source data labeling tool | [Link](https://labelstud.io/) |
 | Prodigy | Annotation tool for creating training data for machine learning models | [Link](https://prodi.gy/) |
 
-## Tools
-
-| Provider | Description | Link |
-|---|---|---|
-https://infranodus.com/
-
-## Text Generators
+## Text Tools & Generators
 Commercial and free but commercial text generators
 
 | Provider | Description | Link |
 |---|---|---|
-| Anakin.ai | An LLM from Anakin AI that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. |  [Anakin.ai](https://anakin.ai/) |
-| Anthropic Claude | A large language model (LLM) from Anthropic that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [Anthropic Claude](https://www.anthropic.com/claude)  |
+| Anakin.ai | An LLM from Anakin AI that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [Anakin.ai](https://anakin.ai/) |
+| Anthropic Claude | A large language model (LLM) from Anthropic that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [Anthropic Claude](https://www.anthropic.com/claude) |
 | BloombergGPT | An LLM from Bloomberg that is specifically designed for processing and generating financial news and information. | [BloombergGPT](https://bloomberg.com) |
-| ChatGPT Open AI | An LLM from OpenAI that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [ChatGPT Open AI](https://chat.openai.com/) | |
+| ChatGPT Open AI | An LLM from OpenAI that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [ChatGPT Open AI](https://chat.openai.com/) |
 | Google Gemini | An LLM from Google AI that can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. | [Google Gemini](https://gemini.google.com/) |
 | Grok | An LLM from AI21 Labs that specializes in generating creative text formats like poems, code, scripts, musical pieces, email, letters, etc. | [Grok](https://grok.x.ai/) |
+| InfraNodus | Network analysis and visualization tool | [Link](https://infranodus.com/) |
 | Jasper | An AI text generator known for its marketing copy generation. | Jasper |
-| Langchain | An LLM from OpenAI that is specifically designed for processing and generating code. |[Langchain](https://www.langchain.com/) |
-| Llmsys | An open-source platform for developing and using large language models, providing various LLMs like GPT-3 and Jurassic-1. |  [Llmsys](https://lmsys.org/) |
+| Langchain | An LLM from OpenAI that is specifically designed for processing and generating code. | [Langchain](https://www.langchain.com/) |
+| Llmsys | An open-source platform for developing and using large language models, providing various LLMs like GPT-3 and Jurassic-1. | [Llmsys](https://lmsys.org/) |
 | Microsoft Bing CoPilot | An AI-powered tool from Microsoft that helps programmers write code faster and more efficiently. | Microsoft [Bing CoPilot](https://copilot.microsoft.com/) |
-| Stability AI | An open-source platform for developing and using large language models, including their own LLM called Stable Diffusion. |[Stability AI](https://stability.ai/)  |
+| Stability AI | An open-source platform for developing and using large language models, including their own LLM called Stable Diffusion. | [Stability AI](https://stability.ai/) |
 
 ## Writing Assistance
 
@@ -169,6 +164,7 @@ Commercial and free but commercial text generators
 | WPCode | Code snippets plugin for WordPress. | [Link](https://wpcode.com) |
 
 ## Developer Tools
+
 | Name | Description | Link |
 | --- | --- | --- |
 | CircleCI | Continuous integration and delivery platform. | [Link](https://circleci.com/) |
@@ -224,11 +220,7 @@ Commercial and free but commercial text generators
 | PicWish | AI-powered image editing and enhancement | [Link](https://picwish.com/) |
 | Topaz Labs | AI-powered image enhancement tools | [Link](https://www.topazlabs.com/) |
 
-## Architecture
-
-https://www.autodesk.eu/solutions/autodesk-ai
-
-## Design
+## Design & Architecture
 
 | Name | Description | Link |
 | --- | --- | --- |
@@ -291,7 +283,6 @@ https://www.autodesk.eu/solutions/autodesk-ai
 | Udio | AI-powered music platform for artists and labels | [https://www.udio.com/home](https://www.udio.com/home) |
 | WaveRNN | Neural Network for Audio Synthesis| [WaveRNN https://github.com/fatchord/WaveRNN](https://github.com/fatchord/WaveRNN)|
 
-
 ## Text to Speech, Speech to Speech
 
 | Name | Description | Link |
@@ -326,64 +317,72 @@ https://www.autodesk.eu/solutions/autodesk-ai
 | Wav tool | Web-based audio editing tool | https://wavtool.com/ |
 | XLN Audio | Developer of virtual instruments and plugins | https://www.xlnaudio.com/ |
 
-## Video Generators
-+ RunwayML https://runwayml.com/
-+ Stability AI https://stability.ai/
-+ https://leonardo.ai/
-+ ComfyUI https://github.com/comfyanonymous/ComfyUI
-+ https://www.synthesia.io/
-+ https://www.steve.ai/
-+ https://lumalabs.ai/
-
-## Video Editing
-
-+ RunwayML
+## Video Generators and Editing
+| Name | Description | Link |
+| --- | --- | --- |
+| ComfyUI | AI-powered UI tools | [Link](https://github.com/comfyanonymous/ComfyUI) |
+| Dream Machine | AI-powered creative tools by Luma Labs | [Link](https://lumalabs.ai/dream-machine) |
+| Leonardo AI | AI art generation platform | [Link](https://leonardo.ai/) |
+| Luma Labs | AI-powered creative tools | [Link](https://lumalabs.ai/) |
+| RunwayML | AI-powered creative tools | [Link](https://runwayml.com/) |
+| Stability AI | AI research and development | [Link](https://stability.ai/) |
+| Steve AI | AI video creation tool | [Link](https://www.steve.ai/) |
+| Synthesia | AI video generation platform | [Link](https://www.synthesia.io/) |
 
 ## 3D Modelling
 
-+ 3D AIStudio https://www.3daistudio.com/
+| Name | Description | Link |
+| --- | --- | --- |
+| 3D AIStudio | AI-powered 3D modeling platform | [Link](https://www.3daistudio.com/) |
+| Luma 3D Capture | 3D capture app for iOS | [Link](https://apps.apple.com/de/app/luma-3d-capture/id1615849914) |
+| Meshy | AI-driven 3D modeling tool | [Link](https://www.meshy.ai/) |
+| Luma Genie | AI-powered 3D modeling tool | [Link](https://lumalabs.ai/genie) |
 
 ## Marketing
 
-+ https://www.adobe.com/de/sensei/creative-cloud-artificial-intelligence.html
-+ AdCreative https://adcreative.ai/
-+ https://www.visme.co/
-+ https://www.mediakits.com/
-+ Jasper https://www.jasper.ai/
-+ https://copysmith.ai/
-+ https://www.neuronwriter.com/
-+ https://www.copy.ai/
-+ https://rytr.me/
-+ https://www.jasper.ai/
-+ https://writesonic.com/seo-checker-and-optimizer
-+ https://www.beautiful.ai/
-+ https://contentbot.ai/
-+ https://genus.ai/
+| Name | Description | Link |
+| Name | Description | Link |
+| --- | --- | --- |
+| Adobe Sensei | AI and machine learning framework | [Link](https://www.adobe.com/de/sensei/creative-cloud-artificial-intelligence.html) |
+| AdCreative | AI-powered ad creation tool | [Link](https://adcreative.ai/) |
+| Beautiful.ai | AI-powered presentation design tool | [Link](https://www.beautiful.ai/) |
+| ContentBot | AI content generation tool | [Link](https://contentbot.ai/) |
+| Copy.ai | AI copywriting assistant | [Link](https://www.copy.ai/) |
+| Copysmith | AI-powered copywriting tool | [Link](https://copysmith.ai/) |
+| Genus AI | AI-powered customer engagement platform | [Link](https://genus.ai/) |
+| Jasper | AI text generator | [Link](https://www.jasper.ai/) |
+| MediaKits | Platform for creating media kits | [Link](https://www.mediakits.com/) |
+| NeuronWriter | AI content optimization tool | [Link](https://www.neuronwriter.com/) |
+| Rytr | AI writing assistant | [Link](https://rytr.me/) |
+| Visme | Online design tool | [Link](https://www.visme.co/) |
+| Writesonic | AI text generator | [Link](https://writesonic.com/seo-checker-and-optimizer) |
 
 ## Avatar
 
-+ https://photoshot.app/
-+ https://amazing.photos/
+| Name | Description | Link |
+| --- | --- | --- |
+| Amazing Photos | AI-driven photo enhancement platform | [Link](https://amazing.photos/) |
+| Photoshot | AI-powered photo editing tool | [Link](https://photoshot.app/) |
 
 ## Agents, Bots and Assistants
 
-+ https://www.crewai.com/
-+ https://www.chatbotui.com/
-+ https://librechat.ai/
-+ https://www.trywilco.com/sierra
-+ https://learn.microsoft.com/en-us/semantic-kernel/overview/
+| Name | Description | Link |
+| --- | --- | --- |
+| ChatbotUI | AI chatbot interface | [Link](https://www.chatbotui.com/) |
+| Crewai | AI-powered creative tools | [Link](https://www.crewai.com/) |
+| LibreChat | Open-source chatbot platform | [Link](https://librechat.ai/) |
+| Microsoft Semantic Kernel | AI development framework | [Link](https://learn.microsoft.com/en-us/semantic-kernel/overview/) |
+| Wilco Sierra | AI-powered learning platform | [Link](https://www.trywilco.com/sierra) |
 
 ## Search Engines
 
-+ https://www.perplexity.ai/
-+ https://vectara.com/
-+ Bing CoPilot https://bing.com
-+ https://www.phind.com/
-+ https://exa.ai/
-
-## Testing and QA
-
-+ tbd
+| Name           | Description                                | Link                        |
+|----------------|--------------------------------------------|-----------------------------|
+| Bing CoPilot   | AI-powered search assistant                | [Link](https://bing.com)     |
+| Exa AI         | AI-driven search and analytics platform    | [Link](https://exa.ai/)      |
+| Perplexity AI  | AI-powered search engine                   | [Link](https://www.perplexity.ai/) |
+| Phind          | AI-powered search engine                   | [Link](https://www.phind.com/) |
+| Vectara        | AI-driven search and discovery platform    | [Link](https://vectara.com/) |
 
 ## Art Protection
 
