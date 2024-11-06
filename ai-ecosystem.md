@@ -239,7 +239,6 @@ https://www.autodesk.eu/solutions/autodesk-ai
 https://www.usegalileo.ai/
 figma
 
-
 ## Fashion
 + https://thenewblack.ai/
 + https://www.ca.la/
@@ -264,13 +263,14 @@ figma
 | Boomy | Platform for creating and releasing music | [https://boomy.com/](https://boomy.com/) |
 | Dreamtonics Synthesizerv | AI-powered synthesizer | [https://dreamtonics.com/synthesizerv/](https://dreamtonics.com/synthesizerv/) |
 | ElevenLabs | AI-powered speech synthesis and voice cloning | [https://elevenlabs.io/](https://elevenlabs.io/) |
-| Google AI  Test Kitchen - Music FX | Experimental AI tool for audio effects | [https://aitestkitchen.withgoogle.com/tools/music-fx](https://aitestkitchen.withgoogle.com/tools/music-fx) |
+| GANSynth| Generative Adversarial Networks (GAN) for Audiosynthesis | [https://magenta.tensorflow.org/gansynth](https://magenta.tensorflow.org/gansynth) |
+|Google AI  Test Kitchen - Music FX | Experimental AI tool for audio effects | [https://aitestkitchen.withgoogle.com/tools/music-fx](https://aitestkitchen.withgoogle.com/tools/music-fx) |
 | Hifi GAN | Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis | https://github.com/jik876/hifi-gan |
 | iLovesong | create custom tracks from audio files or own voice | https://ilovesong.ai/ |
 | Lalal.AI | AI-powered audio tools for music production | [https://www.lalal.ai/](https://www.lalal.ai/) |
 | Loudly | AI-powered music platform for artists and labels | [https://www.loudly.com/](https://www.loudly.com/) |
 | Mubert | AI-powered music generation for various genres | [https://mubert.com/](https://mubert.com/) |
-| NSynth | Open Source neural network based synthesizer engine | [https://github.com/googlecreativelab/open-nsynth-super](https://nsynthsuper.withgoogle.com/)v|
+| NSynth | Open Source neural network based synthesizer engine | [https://github.com/googlecreativelab/open-nsynth-super](https://nsynthsuper.withgoogle.com/)|
 | Myra | AI-powered music platform for personalized playlists | [https://myra.io/](https://myra.io/) |
 | OpenAI MuseNet | (Former) AI model for generating music | [https://openai.com/research/musenet](https://openai.com/research/musenet) |
 | Riffgen | AI-powered riff generator for guitarists | [https://www.riffgen.com/](https://www.riffgen.com/) |
@@ -280,7 +280,7 @@ figma
 | Soundful | AI-powered music platform for artists and labels | [https://soundful.co](https://soundful.co) |
 | Suno | AI-powered music platform for personalized playlists | [https://suno.com/](https://suno.com/) |
 | Udio | AI-powered music platform for artists and labels | [https://www.udio.com/home](https://www.udio.com/home) |
-| WaveRNN | | [WaveRNN https://github.com/fatchord/WaveRNN](WaveRNN https://github.com/fatchord/WaveRNN)|
+| WaveRNN | Neural Network for Audio Synthesis| [WaveRNN https://github.com/fatchord/WaveRNN](https://github.com/fatchord/WaveRNN)|
 
 
 ## Text to Speech, Speech to Speech
