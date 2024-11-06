@@ -19,16 +19,16 @@ Not all of the tools have been tested, use at your own risk.
 | Civit AI                | A cloud-based AI platform that provides access to a variety of AI tools and services.                              | [Link](https://civitai.com/)  |
 | Cohere                  | Enables developers and enterprises to build LLM-powered applications with a focus on ease-of-use and data privacy. | [Link](https://cohere.com/) |
 | Eleuther                | Empowering Open-Source Artificial Intelligence Research.                                                           | [Link](https://www.eleuther.ai/) | 
-| Fireworks               | A cloud-based platform for building and deploying pplications.                                                 | [Link](https://fireworks.ai/)  |
+| Fireworks               | A cloud-based platform for building and deploying pplications.                                                     | [Link](https://fireworks.ai/)  |
 | Flux                    | Julia Math, Machine learning stack.                                                                                | [Link](https://fluxml.ai/)|
 | Google AI               | Focuses on conducting research to advance AI and developing tools for real-world applications.                     | [Link](https://ai.google/) |
 | Google Colab            | A free cloud-based Jupyter notebook environment that allows you to write and execute Python code.                  | [Link](https://colab.research.google.com/) |
 | Gradio                  | Web Interface for custom models                                                                                    | [Link](https://www.gradio.app/) |
 | Hugging Face            | A platform for sharing and using natural language processing (NLP) models and datasets.                            | [Link](https://huggingface.co/) |
 | IBM AI                  | Leverages Watson to transform industries with data-driven insights and expertise.                                  | [Link](https://www.ibm.com/de-de/artificial-intelligence) |
-| Intel AI                | Focused on accelerating deep learning applications.                                     | [Link](https://www.intel.de/content/www/de/de/artificial-intelligence/overview.html) |
+| Intel AI                | Focused on accelerating deep learning applications.                                                                | [Link](https://www.intel.de/content/www/de/de/artificial-intelligence/overview.html) |
 | Jax                     | High Performance large scale numerical computing for machine learning written in Python                            | [Link](https://jax.readthedocs.io/) |
-| Jupyter AI              | Open source AI for Jupyter Notbooks.                                                                                | [Link](https://github.com/jupyterlab/jupyter-ai) |
+| Jupyter AI              | Open source AI for Jupyter Notbooks.                                                                               | [Link](https://github.com/jupyterlab/jupyter-ai) |
 | Kaggle                  | A community to share datasets, compete in machine learning competitions, and collaborate on projects.              | [Link](https://www.kaggle.com/) |
 | Keras                   | Deep learning API written in Python for PyTorch, Tensorflow and Jax                                                | [Link](https://keras.io/) |
 | Llama Index             | Open Source data framework and community for building LLM applications.                                            | [Link]( https://www.llamaindex.ai/)
@@ -37,7 +37,7 @@ Not all of the tools have been tested, use at your own risk.
 | Microsoft AI            | Encompasses a range of AI products and services to empower organizations and developers.                           | [Link](https://www.microsoft.com/de-de/ai) |
 | Mindverse               | AI Platform forcopywriting, research, image generation and productivity                                            | [Link](https://www.mind-verse.de/) |
 | Mistral                 | A cloud-based platform for training and deploying AI models.                                                       | [Link](https://mistral.ai/)|
-| Ml5                     | ML JavaScript library for p5js                                                                                     |[Link](https://github.com/ml5js/ml5-library)
+| Ml5                     | ML JavaScript library for p5js                                                                                     | [Link](https://github.com/ml5js/ml5-library)
 | Nvidia AI               | A comprehensive suite of AI  and resources, including GPUs, software, and training platforms.                      | [Link](https://www.nvidia.com/en-us/ai-data-science/) |
 | OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | [Link](https://openai.com/)|
 | Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | [Link](https://www.paperspace.com/) |
@@ -52,16 +52,16 @@ Not all of the tools have been tested, use at your own risk.
 ## Selected Models
 | Model | Description | Link |
 |---|---|---|
-| Huggingface opt-350m | Open Pre-trained Transformer Language Models |[Link](https://huggingface.co/facebook/opt-350m)|
-| Huggingface stable-diffusion-v1-4| Diffusion-based text-to-image generation model |[Link](https://huggingface.co/CompVis/stable-diffusion-v1-4)|
-| Huggingface architecturerealmix| Realistic Architecture Image Renderings |[Link](https://huggingface.co/stablediffusionapi/architecturerealmix)|
-| Huggingface sketch-to-fashion-design| Does exactly that |[Link](https://huggingface.co/spaces/tonyassi/sketch-to-fashion-design)|
-| Huggingface product-design| Product Design sketch style|[Link](https://huggingface.co/stablediffusionapi/product-design)|
-| Huggingface designgen-23k-25k| Text-to-Image diffusen model |[Link](https://huggingface.co/ahmed-naseer/designgen-23k-25k)|
-| Mistral mixtral-8x22b|LLM model, fluent EN, FR, IT, GER, SP, strong mathematics and coding capabilities, function calling, 4K tokens context window | [Link](https://mistral.ai/news/mixtral-8x22b/) |
-| PyTorch Hub | https://pytorch.org/hub/ |
-| Kaggle Models | https://www.kaggle.com/models |
-| Github Model Zoo | https://github.com/BVLC/caffe/wiki/Model-Zoo |
+| GitHub Model Zoo | A collection of pre-trained models for various tasks | [Link](https://github.com/BVLC/caffe/wiki/Model-Zoo) |
+| Huggingface architecturerealmix | Realistic architecture image renderings | [Link](https://huggingface.co/stablediffusionapi/architecturerealmix) |
+| Huggingface designgen-23k-25k | Text-to-image diffusion model | [Link](https://huggingface.co/ahmed-naseer/designgen-23k-25k) |
+| Huggingface opt-350m | Open pre-trained transformer language models | [Link](https://huggingface.co/facebook/opt-350m) |
+| Huggingface product-design | Product design sketch style | [Link](https://huggingface.co/stablediffusionapi/product-design) |
+| Huggingface sketch-to-fashion-design | Converts sketches to fashion designs | [Link](https://huggingface.co/spaces/tonyassi/sketch-to-fashion-design) |
+| Huggingface stable-diffusion-v1-4 | Diffusion-based text-to-image generation model | [Link](https://huggingface.co/CompVis/stable-diffusion-v1-4) |
+| Kaggle Models | A repository of machine learning models | [Link](https://www.kaggle.com/models) |
+| Mistral mixtral-8x22b | LLM model with multilingual and coding capabilities | [Link](https://mistral.ai/news/mixtral-8x22b/) |
+| PyTorch Hub | A repository of pre-trained models for PyTorch | [Link](https://pytorch.org/hub/) |
 
 
 ## Training Data
@@ -69,48 +69,44 @@ Opern Source training datasets.
 
 | Provider | Description | Link |
 |---|---|---|
-| Google Dataset Search | TBD | [Link](https://datasetsearch.research.google.com/)|
-| Laion | TBD | [Link](https://laion.ai/) |
-| Laion Aesthetic| TBD | [Link](https://github.com/LAION-AI/laion-datasets/tree/main/laion-aesthetic) |
-| UCI ML Repository | UC Irvine Machine Learning Repository |[Link](https://archive.ics.uci.edu/)|
-| Papers with Code | Open directory of selected Datasets |[Link](https://paperswithcode.com/)|
-|||[Link]()|
-
+| Google Dataset Search | A tool for finding datasets across the web. | [Link](https://datasetsearch.research.google.com/)|
+| Laion | A non-profit organization providing large-scale datasets for machine learning research. | [Link](https://laion.ai/) |
+| Laion Aesthetic | A dataset of images rated for aesthetic quality. | [Link](https://github.com/LAION-AI/laion-datasets/tree/main/laion-aesthetic) |
+| Papers with Code | An open directory of machine learning papers, code, and datasets. | [Link](https://paperswithcode.com/)|
+| UCI ML Repository | A collection of databases, domain theories, and datasets for machine learning research. | [Link](https://archive.ics.uci.edu/)|
 
 ## Open Data
 Open data sources 
 
 | Provider | Description | Link |
 |---|---|---|
-| Open Goverment Data Germany | TBD |[Link](https://www.govdata.de/) |
-| Common Crawl | TBD |[Link](https://commoncrawl.org/) |
+| Common Crawl | A non-profit organization that crawls the web and freely provides its archives and datasets to the public. | [Link](https://commoncrawl.org/) |
+| Open Goverment Data Germany | A portal providing access to a wide range of open government data from various public authorities in Germany. | [Link](https://www.govdata.de/) |
 
 ## Labeling and Annotation
 
 | Provider | Description | Link |
 |---|---|---|
-https://github.com/cvat-ai
-https://github.com/HumanSignal/label-studio
-https://github.com/HumanSignal/awesome-data-labeling
-https://www.superannotate.com/
-https://encord.com/
-awesome-data-labelling
-bbox-visualizer
-dataqa
-doccano
-hover
-Label-studio
-Labelme
-VoTT
-Yolo-mark
+| Awesome Data Labeling | A curated list of awesome data labeling tools and resources | [Link](https://github.com/HumanSignal/awesome-data-labeling) |
+| BBox Visualizer | Tool for visualizing bounding boxes | [Link](https://github.com/Cartucho/bbox-visualizer) |
+| CVAT | Open-source annotation tool for computer vision | [Link](https://github.com/cvat-ai) |
+| DataQA | Tool for data quality assurance in labeling | [Link](https://github.com/awslabs/dataqa) |
+| Doccano | Open-source text annotation tool | [Link](https://github.com/doccano/doccano) |
+| Encord | Data annotation and management platform | [Link](https://encord.com/) |
+| Hover | Tool for interactive data labeling | [Link](https://github.com/hover-org/hover) |
+| Label Studio | Open-source data labeling tool | [Link](https://github.com/HumanSignal/label-studio) |
+| LabelMe | Open-source annotation tool for images | [Link](https://github.com/wkentaro/labelme) |
+| SuperAnnotate | Platform for image and video annotation | [Link](https://www.superannotate.com/) |
+| VoTT | Open-source annotation and labeling tool for images and videos | [Link](https://github.com/microsoft/VoTT) |
+| Yolo-mark | Tool for labeling images for YOLO object detection | [Link](https://github.com/AlexeyAB/Yolo_mark) |
 
 ### Kommerziell
 | Provider | Description | Link |
 |---|---|---|
-https://www.cvat.ai/
-https://labelstud.io/
-LabelBox
-Prodigy
+| CVAT | Open-source annotation tool for computer vision | [Link](https://www.cvat.ai/) |
+| LabelBox | Data labeling and management platform | [Link](https://labelbox.com/) |
+| Label Studio | Open-source data labeling tool | [Link](https://labelstud.io/) |
+| Prodigy | Annotation tool for creating training data for machine learning models | [Link](https://prodi.gy/) |
 
 ## Tools
 
@@ -142,85 +138,91 @@ Commercial and free but commercial text generators
 |---|---|---|
 | Anyword | An AI writer that generates high-quality content and copy of all kinds, including long-form articles, blog posts, ad copy, social media posts, and more. | [Anyword](https://anyword.com/) |
 | ChatPDF | A tool that allows for interactive conversations with uploaded PDFs, making it easier to understand and annotate documents. | [ChatPDF](https://www.chatpdf.com/) |
-| Compose.ai | An AI writing assistant that helps you write faster by completing your sentences and offering suggestions. | [Compose.ai]() |
-| Headlime | A content generation tool that uses AI to create high-converting marketing copy for various platforms and purposes. | [Headlime] |
-| HyperWrite AI | A suite of AI writing  that assist with creating content, editing, and more, to improve writing efficiency. | [HyperWrite AI](https://www.hyperwriteai.com/) |
+| Compose.ai | An AI writing assistant that helps you write faster by completing your sentences and offering suggestions. | [Compose.ai](https://www.compose.ai/) |
+| Headlime | A content generation tool that uses AI to create high-converting marketing copy for various platforms and purposes. | [Headlime](https://headlime.com/) |
+| HyperWrite AI | A suite of AI writing tools that assist with creating content, editing, and more, to improve writing efficiency. | [HyperWrite AI](https://www.hyperwriteai.com/) |
 | Jenni AI | An AI-powered writing assistant that helps with academic writing, offering features like research assistance and citation formatting. | [Jenni AI](https://jenni.ai/) |
 | Laika | An AI writing tool that provides virtual companions to help with creative writing and brainstorming. | [Laika](https://www.writewithlaika.com/) |
-| Lavender | An AI email assistant that helps you write better emails faster by analyzing your writing and providing real-time suggestions. | [Lavender]() |
+| Lavender | An AI email assistant that helps you write better emails faster by analyzing your writing and providing real-time suggestions. | [Lavender](https://www.lavender.ai/) |
 | Lex | An AI-backed word processor that offers a premium writing experience with features like AI feedback and live collaboration. | [Lex](https://lex.page/) |
 | Moonbeam | An AI writing assistant specifically trained to help with long-form content such as essays, stories, articles, and blogs. | [Moonbeam](https://www.gomoonbeam.com/) |
 | Postwise | An AI tool that uses AI to write, schedule, and grow your Twitter and LinkedIn accounts with engaging content. | [Postwise](https://postwise.ai/) |
 | Quillbot | An AI-powered paraphrasing tool that helps you rephrase text in various styles and integrates with writing tools you already use. | [Quillbot](https://quillbot.com/) |
-| Sudo Write| Writing Assistant | [Link](https://www.sudowrite.com/) |
-| Writesonic | An AI text generator that creates SEO-friendly content for blogs, ads, and more, with a variety of writing tools. | [Writesonic]() |
-| Yarnit | A platform that uses AI to help you craft engaging stories and content with ease. | [Yarnit]() |
+| Sudo Write | Writing Assistant | [Sudo Write](https://www.sudowrite.com/) |
+| Writesonic | An AI text generator that creates SEO-friendly content for blogs, ads, and more, with a variety of writing tools. | [Writesonic](https://writesonic.com/) |
+| Yarnit | A platform that uses AI to help you craft engaging stories and content with ease. | [Yarnit](https://www.yarnit.ai/) |
 
 
 ## Coding Assistance
 
 | Name | Description | Link |
 | --- | --- | --- |
-| aiXcoder | AI-based software development tool. | [Link](https://www.aixcoder.com/)|
+| aiXcoder | AI-based software development tool. | [Link](https://www.aixcoder.com/) |
 | AskCodi | AI programming assistant. | [Link](https://www.askcodi.com/) |
-| AWS CodeWhisperer | AI code generator. | [Link]( https://aws.amazon.com/codewhisperer/) |
+| AWS CodeWhisperer | AI code generator. | [Link](https://aws.amazon.com/codewhisperer/) |
 | CodeLlama | Large language models for code. | [Link](https://codellama.dev/) |
+| Devin | Collaborative AI development partner. | [Link](https://devin.ai/) |
 | GitHub CoPilot | AI coding assistant. | [Link](https://copilot.microsoft.com/) |
 | HuggingFace Starcoder | 15.5B-parameter models for 80+ languages. | [Link](https://huggingface.co/blog/starcoder) |
 | OpenAI Codex | Converts natural language into code. | [Link](https://openai.com/blog/openai-codex) |
 | Replit AI | Code completion tool. | [Link](https://replit.com/ai) |
-| Sourcegraph Cody | AI coding assistant. |  [Link](https://sourcegraph.com/cody) |
-| Tabnine | Generative AI for software development. |  [Link](https://www.tabnine.com/) |
-| WPCode | Code snippets plugin for WordPress. | [Link](https://wpcode.com/) |
+| Sourcegraph Cody | AI coding assistant. | [Link](https://sourcegraph.com/cody) |
+| Tabnine | Generative AI for software development. | [Link](https://www.tabnine.com/) |
+| WPCode | Code snippets plugin for WordPress. | [Link](https://wpcode.com) |
 
 ## Developer Tools
-+ https://www.cursor.com/
-+ Github CodePilot https://github.com/features/copilot
-+ https://circleci.com/
-+ https://www.framer.com/features/ai/
-+ https://coderabbit.ai/
-+ Fronty Imge to Html https://fronty.com/
-+ Vector Database https://weaviate.io/
-+ https://neo4j.com/
+| Name | Description | Link |
+| --- | --- | --- |
+| CircleCI | Continuous integration and delivery platform. | [Link](https://circleci.com/) |
+| CodeRabbit | AI-powered code review and generation tool. | [Link](https://coderabbit.ai/) |
+| Cursor | AI-powered code editor. | [Link](https://www.cursor.com/) |
+| Framer | AI-powered design tool. | [Link](https://www.framer.com/features/ai/) |
+| Fronty | Image to HTML conversion tool. | [Link](https://fronty.com/) |
+| GitHub Copilot | AI coding assistant. | [Link](https://github.com/features/copilot) |
+| Neo4j | Graph database management system. | [Link](https://neo4j.com/) |
+| Weaviate | Vector database for machine learning applications. | [Link](https://weaviate.io/) |
 
 ## Image Generators
-+ https://github.com/easydiffusion/easydiffusion?tab=readme-ov-file#installation
-+ https://www.alpacaml.com/
-+ Adobe Firefly https://www.adobe.com/de/products/firefly.html
-+ Adobe Sensei https://business.adobe.com/products/sensei/adobe-sensei.html
-+ Dall-E https://openai.com/dall-e-3
-+ https://stability.ai/
-+ Stable Diffusion https://stablediffusionweb.com/
-+ Stability AI https://stability.ai/
-+ Midjourney https://www.midjourney.com/home
-+ RunwayML Image and Video Generation  https://runwayml.com/
-+ LooxAI Architecture Visualisation https://www.lookx.ai/
-+ https://www.canva.com/de_de/ai-image-generator/
-+ https://dreamstudio.ai/
-+ Lokal installier https://dreamstudio.com/studio/
-+ https://image.computer/
-+ https://leonardo.ai/
-+ ComfyUI https://github.com/comfyanonymous/ComfyUI
-+ https://imagen.research.google/
-+ https://artsmart.ai/
-+ https://github.com/jolibrain/joliGEN
-+ https://character.ai/
-+ https://starryai.com/
-+ https://www.picso.ai/
-+ https://www.nvidia.com/de-de/studio/canvas/
-+ https://artsio.xyz/
-+ https://creator.nightcafe.studio/
-+ https://dream.ai/
-+ https://www.prompthunt.com/
-+ https://www.craiyon.com/
-+ Fashion photos https://botika.io/ 
+| Name | Description | Link |
+| --- | --- | --- |
+| Easy Diffusion | Easy-to-use diffusion model | [Link](https://github.com/easydiffusion/easydiffusion?tab=readme-ov-file#installation) |
+| AlpacaML | Machine learning platform | [Link](https://www.alpacaml.com/) |
+| Adobe Firefly | AI-powered creative tools | [Link](https://www.adobe.com/de/products/firefly.html) |
+| Adobe Sensei | AI and machine learning framework | [Link](https://business.adobe.com/products/sensei/adobe-sensei.html) |
+| Dall-E | Text-to-image generation model | [Link](https://openai.com/dall-e-3) |
+| Stability AI | AI research and development | [Link](https://stability.ai/) |
+| Stable Diffusion | Text-to-image generation model | [Link](https://stablediffusionweb.com/) |
+| Midjourney | AI art generation platform | [Link](https://www.midjourney.com/home) |
+| RunwayML | Image and video generation tools | [Link](https://runwayml.com/) |
+| LooxAI | Architecture visualization | [Link](https://www.lookx.ai/) |
+| Canva AI | AI image generator | [Link](https://www.canva.com/de_de/ai-image-generator/) |
+| DreamStudio | AI-powered creative tools | [Link](https://dreamstudio.ai/) |
+| DreamStudio Local | Local installation of DreamStudio | [Link](https://dreamstudio.com/studio/) |
+| Image Computer | AI image generation | [Link](https://image.computer/) |
+| Leonardo AI | AI art generation platform | [Link](https://leonardo.ai/) |
+| ComfyUI | AI-powered UI tools | [Link](https://github.com/comfyanonymous/ComfyUI) |
+| Google Imagen | AI image generation research | [Link](https://imagen.research.google/) |
+| Artsmart AI | AI art generation platform | [Link](https://artsmart.ai/) |
+| JoliGEN | AI image generation | [Link](https://github.com/jolibrain/joliGEN) |
+| Character AI | AI character creation | [Link](https://character.ai/) |
+| StarryAI | AI art generation platform | [Link](https://starryai.com/) |
+| PicSo AI | AI image generation | [Link](https://www.picso.ai/) |
+| Nvidia Canvas | AI-powered painting tool | [Link](https://www.nvidia.com/de-de/studio/canvas/) |
+| Artsio | AI art generation platform | [Link](https://artsio.xyz/) |
+| NightCafe | AI art generation platform | [Link](https://creator.nightcafe.studio/) |
+| Dream AI | AI art generation platform | [Link](https://dream.ai/) |
+| PromptHunt | AI prompt generation | [Link](https://www.prompthunt.com/) |
+| Craiyon | AI image generation | [Link](https://www.craiyon.com/) |
+| Botika | AI fashion photo generation | [Link](https://botika.io/) |
 
 ## Image Editing
-+ https://github.com/Acly/krita-ai-diffusion
-+ https://skylum.com/de/luminar
-+ https://www.topazlabs.com/
-+ https://picwish.com/
-+ https://letsenhance.io/
+| Name | Description | Link |
+| --- | --- | --- |
+| Krita AI Diffusion | AI-powered diffusion model for Krita | [Link](https://github.com/Acly/krita-ai-diffusion) |
+| Luminar | AI photo editing software | [Link](https://skylum.com/de/luminar) |
+| Topaz Labs | AI-powered image enhancement tools | [Link](https://www.topazlabs.com/) |
+| PicWish | AI-powered image editing and enhancement | [Link](https://picwish.com/) |
+| Let's Enhance | AI-powered image upscaling and enhancement | [Link](https://letsenhance.io/) |
 
 ## Architecture
 https://www.autodesk.eu/solutions/autodesk-ai
@@ -234,10 +236,8 @@ https://www.autodesk.eu/solutions/autodesk-ai
 + https://mokker.ai
 + https://www.beautiful.ai
 + https://tome.app
-
-## UX Design
-https://www.usegalileo.ai/
-figma
++ https://www.usegalileo.ai/
++ figma
 
 ## Fashion
 + https://thenewblack.ai/
