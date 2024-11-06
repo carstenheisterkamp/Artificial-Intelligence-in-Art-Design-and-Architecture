@@ -131,7 +131,6 @@ Commercial and free but commercial text generators
 | Microsoft Bing CoPilot | An AI-powered tool from Microsoft that helps programmers write code faster and more efficiently. | Microsoft [Bing CoPilot](https://copilot.microsoft.com/) |
 | Stability AI | An open-source platform for developing and using large language models, including their own LLM called Stable Diffusion. |[Stability AI](https://stability.ai/)  |
 
-
 ## Writing Assistance
 
 | Provider | Description | Link |
@@ -151,7 +150,6 @@ Commercial and free but commercial text generators
 | Sudo Write | Writing Assistant | [Sudo Write](https://www.sudowrite.com/) |
 | Writesonic | An AI text generator that creates SEO-friendly content for blogs, ads, and more, with a variety of writing tools. | [Writesonic](https://writesonic.com/) |
 | Yarnit | A platform that uses AI to help you craft engaging stories and content with ease. | [Yarnit](https://www.yarnit.ai/) |
-
 
 ## Coding Assistance
 
@@ -183,75 +181,83 @@ Commercial and free but commercial text generators
 | Weaviate | Vector database for machine learning applications. | [Link](https://weaviate.io/) |
 
 ## Image Generators
+
 | Name | Description | Link |
 | --- | --- | --- |
-| Easy Diffusion | Easy-to-use diffusion model | [Link](https://github.com/easydiffusion/easydiffusion?tab=readme-ov-file#installation) |
-| AlpacaML | Machine learning platform | [Link](https://www.alpacaml.com/) |
 | Adobe Firefly | AI-powered creative tools | [Link](https://www.adobe.com/de/products/firefly.html) |
 | Adobe Sensei | AI and machine learning framework | [Link](https://business.adobe.com/products/sensei/adobe-sensei.html) |
-| Dall-E | Text-to-image generation model | [Link](https://openai.com/dall-e-3) |
-| Stability AI | AI research and development | [Link](https://stability.ai/) |
-| Stable Diffusion | Text-to-image generation model | [Link](https://stablediffusionweb.com/) |
-| Midjourney | AI art generation platform | [Link](https://www.midjourney.com/home) |
-| RunwayML | Image and video generation tools | [Link](https://runwayml.com/) |
-| LooxAI | Architecture visualization | [Link](https://www.lookx.ai/) |
+| AlpacaML | Machine learning platform | [Link](https://www.alpacaml.com/) |
+| Artsio | AI art generation platform | [Link](https://artsio.xyz/) |
+| Artsmart AI | AI art generation platform | [Link](https://artsmart.ai/) |
+| Botika | AI fashion photo generation | [Link](https://botika.io/) |
 | Canva AI | AI image generator | [Link](https://www.canva.com/de_de/ai-image-generator/) |
+| Character AI | AI character creation | [Link](https://character.ai/) |
+| ComfyUI | AI-powered UI tools | [Link](https://github.com/comfyanonymous/ComfyUI) |
+| Craiyon | AI image generation | [Link](https://www.craiyon.com/) |
+| Dall-E | Text-to-image generation model | [Link](https://openai.com/dall-e-3) |
+| Dream AI | AI art generation platform | [Link](https://dream.ai/) |
 | DreamStudio | AI-powered creative tools | [Link](https://dreamstudio.ai/) |
 | DreamStudio Local | Local installation of DreamStudio | [Link](https://dreamstudio.com/studio/) |
-| Image Computer | AI image generation | [Link](https://image.computer/) |
-| Leonardo AI | AI art generation platform | [Link](https://leonardo.ai/) |
-| ComfyUI | AI-powered UI tools | [Link](https://github.com/comfyanonymous/ComfyUI) |
+| Easy Diffusion | Easy-to-use diffusion model | [Link](https://github.com/easydiffusion/easydiffusion?tab=readme-ov-file#installation) |
 | Google Imagen | AI image generation research | [Link](https://imagen.research.google/) |
-| Artsmart AI | AI art generation platform | [Link](https://artsmart.ai/) |
+| Image Computer | AI image generation | [Link](https://image.computer/) |
 | JoliGEN | AI image generation | [Link](https://github.com/jolibrain/joliGEN) |
-| Character AI | AI character creation | [Link](https://character.ai/) |
-| StarryAI | AI art generation platform | [Link](https://starryai.com/) |
-| PicSo AI | AI image generation | [Link](https://www.picso.ai/) |
-| Nvidia Canvas | AI-powered painting tool | [Link](https://www.nvidia.com/de-de/studio/canvas/) |
-| Artsio | AI art generation platform | [Link](https://artsio.xyz/) |
+| Leonardo AI | AI art generation platform | [Link](https://leonardo.ai/) |
+| LooxAI | Architecture visualization | [Link](https://www.lookx.ai/) |
+| Midjourney | AI art generation platform | [Link](https://www.midjourney.com/home) |
 | NightCafe | AI art generation platform | [Link](https://creator.nightcafe.studio/) |
-| Dream AI | AI art generation platform | [Link](https://dream.ai/) |
+| Nvidia Canvas | AI-powered painting tool | [Link](https://www.nvidia.com/de-de/studio/canvas/) |
+| PicSo AI | AI image generation | [Link](https://www.picso.ai/) |
 | PromptHunt | AI prompt generation | [Link](https://www.prompthunt.com/) |
-| Craiyon | AI image generation | [Link](https://www.craiyon.com/) |
-| Botika | AI fashion photo generation | [Link](https://botika.io/) |
+| RunwayML | Image and video generation tools | [Link](https://runwayml.com/) |
+| Stable Diffusion | Text-to-image generation model | [Link](https://stablediffusionweb.com/) |
+| StarryAI | AI art generation platform | [Link](https://starryai.com/) |
+| Stability AI | AI research and development | [Link](https://stability.ai/) |
 
 ## Image Editing
+
 | Name | Description | Link |
 | --- | --- | --- |
 | Krita AI Diffusion | AI-powered diffusion model for Krita | [Link](https://github.com/Acly/krita-ai-diffusion) |
-| Luminar | AI photo editing software | [Link](https://skylum.com/de/luminar) |
-| Topaz Labs | AI-powered image enhancement tools | [Link](https://www.topazlabs.com/) |
-| PicWish | AI-powered image editing and enhancement | [Link](https://picwish.com/) |
 | Let's Enhance | AI-powered image upscaling and enhancement | [Link](https://letsenhance.io/) |
+| Luminar | AI photo editing software | [Link](https://skylum.com/de/luminar) |
+| PicWish | AI-powered image editing and enhancement | [Link](https://picwish.com/) |
+| Topaz Labs | AI-powered image enhancement tools | [Link](https://www.topazlabs.com/) |
 
 ## Architecture
+
 https://www.autodesk.eu/solutions/autodesk-ai
 
 ## Design
-+ https://www.autodesk.eu/solutions/autodesk-ai
-+ https://looka.com
-+ https://designs.ai
-+ http://www.colormind.io
-+ https://www.khroma.co
-+ https://mokker.ai
-+ https://www.beautiful.ai
-+ https://tome.app
-+ https://www.usegalileo.ai/
-+ figma
+
+| Name | Description | Link |
+| --- | --- | --- |
+| Autodesk AI | AI solutions for design and architecture | [Link](https://www.autodesk.eu/solutions/autodesk-ai) |
+| Looka | AI-powered logo maker and branding tool | [Link](https://looka.com) |
+| Designs.ai | AI-powered design tools for various media | [Link](https://designs.ai) |
+| Colormind | AI-powered color scheme generator | [Link](http://www.colormind.io) |
+| Khroma | AI-based color palette generator | [Link](https://www.khroma.co) |
+| Mokker.ai | AI-powered mockup generator | [Link](https://mokker.ai) |
+| Beautiful.ai | AI-powered presentation design tool | [Link](https://www.beautiful.ai) |
+| Tome | AI-powered storytelling tool | [Link](https://tome.app) |
+| Galileo AI | AI-powered design assistant | [Link](https://www.usegalileo.ai/) |
+| Figma | Collaborative interface design tool | [Link](https://www.figma.com) |
 
 ## Fashion
-+ https://thenewblack.ai/
-+ https://www.ca.la/
-+ https://lalaland.ai/
-+ https://resleeve.ai/
-+ https://blog.refabric.com/
-+ https://www.yoona.ai/
-+ https://offscriptmtl.com/
-+ https://www.ablo.ai/
-+ https://www.ca.la/
-+ Discovery https://yesplz.ai/
-+ https://www.heuritech.com/ Trend prediction
-+ https://www.designovel.com/ Trend prediction
+| Name | Description | Link |
+| --- | --- | --- |
+| The New Black | AI-powered fashion platform | [Link](https://thenewblack.ai/) |
+| CaaLa | AI-driven fashion design and production | [Link](https://www.ca.la/) |
+| Lalaland | AI-generated fashion models | [Link](https://lalaland.ai/) |
+| Resleeve | AI-based fashion design tool | [Link](https://resleeve.ai/) |
+| Refabric | AI-driven fashion blog | [Link](https://blog.refabric.com/) |
+| Yoona | AI fashion design assistant | [Link](https://www.yoona.ai/) |
+| Offscript | AI-powered fashion platform | [Link](https://offscriptmtl.com/) |
+| Ablo | AI fashion assistant | [Link](https://www.ablo.ai/) |
+| CaaLa | AI-driven fashion design and production | [Link](https://www.ca.la/) |
+| YesPlz | AI fashion discovery tool | [Link](https://yesplz.ai/) |
+| Heuritech | AI trend prediction for fashion | [Link](https://www.heuritech.com/) |
+| Designovel | AI trend prediction for fashion | [Link](https://www.designovel.com/) |
 
 ## Audio Generators
 
@@ -264,21 +270,24 @@ https://www.autodesk.eu/solutions/autodesk-ai
 | Dreamtonics Synthesizerv | AI-powered synthesizer | [https://dreamtonics.com/synthesizerv/](https://dreamtonics.com/synthesizerv/) |
 | ElevenLabs | AI-powered speech synthesis and voice cloning | [https://elevenlabs.io/](https://elevenlabs.io/) |
 | GANSynth| Generative Adversarial Networks (GAN) for Audiosynthesis | [https://magenta.tensorflow.org/gansynth](https://magenta.tensorflow.org/gansynth) |
-|Google AI  Test Kitchen - Music FX | Experimental AI tool for audio effects | [https://aitestkitchen.withgoogle.com/tools/music-fx](https://aitestkitchen.withgoogle.com/tools/music-fx) |
+| Google AI  Test Kitchen - Music FX | Experimental AI tool for audio effects | [https://aitestkitchen.withgoogle.com/tools/music-fx](https://aitestkitchen.withgoogle.com/tools/music-fx) |
 | Hifi GAN | Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis | https://github.com/jik876/hifi-gan |
 | iLovesong | create custom tracks from audio files or own voice | https://ilovesong.ai/ |
 | Lalal.AI | AI-powered audio tools for music production | [https://www.lalal.ai/](https://www.lalal.ai/) |
 | Loudly | AI-powered music platform for artists and labels | [https://www.loudly.com/](https://www.loudly.com/) |
 | Mubert | AI-powered music generation for various genres | [https://mubert.com/](https://mubert.com/) |
 | NSynth | Open Source neural network based synthesizer engine | [https://github.com/googlecreativelab/open-nsynth-super](https://nsynthsuper.withgoogle.com/)|
+| Takotron| | https://pytorch.org/hub/nvidia_deeplearningexamples_tacotron2/
 | Myra | AI-powered music platform for personalized playlists | [https://myra.io/](https://myra.io/) |
 | OpenAI MuseNet | (Former) AI model for generating music | [https://openai.com/research/musenet](https://openai.com/research/musenet) |
+| SampleRNN | Prism SampleRNN |[https://pytorch.org/hub/nvidia_deeplearningexamples_tacotron2/](https://pytorch.org/hub/nvidia_deeplearningexamples_tacotron2/)|
 | Riffgen | AI-powered riff generator for guitarists | [https://www.riffgen.com/](https://www.riffgen.com/) |
 | Riffusion | AI-powered music generation based on text descriptions | [https://www.riffusion.com/](https://www.riffusion.com/) |
 | Rightsify Hydra | AI-powered music production platform | [https://rightsify.com/hydra/](https://rightsify.com/hydra/) |
 | Soundraw | AI-powered music platform for background music | [https://soundraw.io/](https://soundraw.io/) |
 | Soundful | AI-powered music platform for artists and labels | [https://soundful.co](https://soundful.co) |
 | Suno | AI-powered music platform for personalized playlists | [https://suno.com/](https://suno.com/) |
+| Torch Audio |Library for audio and signal processing  | https://pytorch.org/audio/stable/index.html |
 | Udio | AI-powered music platform for artists and labels | [https://www.udio.com/home](https://www.udio.com/home) |
 | WaveRNN | Neural Network for Audio Synthesis| [WaveRNN https://github.com/fatchord/WaveRNN](https://github.com/fatchord/WaveRNN)|
 
@@ -335,6 +344,7 @@ https://www.autodesk.eu/solutions/autodesk-ai
 + 3D AIStudio https://www.3daistudio.com/
 
 ## Marketing
+
 + https://www.adobe.com/de/sensei/creative-cloud-artificial-intelligence.html
 + AdCreative https://adcreative.ai/
 + https://www.visme.co/
@@ -351,10 +361,12 @@ https://www.autodesk.eu/solutions/autodesk-ai
 + https://genus.ai/
 
 ## Avatar
+
 + https://photoshot.app/
 + https://amazing.photos/
 
 ## Agents, Bots and Assistants
+
 + https://www.crewai.com/
 + https://www.chatbotui.com/
 + https://librechat.ai/
@@ -362,6 +374,7 @@ https://www.autodesk.eu/solutions/autodesk-ai
 + https://learn.microsoft.com/en-us/semantic-kernel/overview/
 
 ## Search Engines
+
 + https://www.perplexity.ai/
 + https://vectara.com/
 + Bing CoPilot https://bing.com
@@ -373,6 +386,7 @@ https://www.autodesk.eu/solutions/autodesk-ai
 + tbd
 
 ## Art Protection
+
 + https://glaze.cs.uchicago.edu/what-is-glaze.html
 
 ## Related digital tools and frameworks
@@ -386,6 +400,7 @@ Tools that support or integrate AI into its workflow
 + https://www.pluralsight.com/ai/ai-sandboxes
 
 ## Literature
+
 Art and AI https://ars.electronica.art/newdigitaldeal/files/2021/08/artandai.pdf
 
 ## Mags, People and Communities
