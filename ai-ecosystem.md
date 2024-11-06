@@ -270,6 +270,7 @@ figma
 | Lalal.AI | AI-powered audio tools for music production | [https://www.lalal.ai/](https://www.lalal.ai/) |
 | Loudly | AI-powered music platform for artists and labels | [https://www.loudly.com/](https://www.loudly.com/) |
 | Mubert | AI-powered music generation for various genres | [https://mubert.com/](https://mubert.com/) |
+| NSynth | Open Source neural network based synthesizer engine | [https://github.com/googlecreativelab/open-nsynth-super](https://nsynthsuper.withgoogle.com/)v|
 | Myra | AI-powered music platform for personalized playlists | [https://myra.io/](https://myra.io/) |
 | OpenAI MuseNet | (Former) AI model for generating music | [https://openai.com/research/musenet](https://openai.com/research/musenet) |
 | Riffgen | AI-powered riff generator for guitarists | [https://www.riffgen.com/](https://www.riffgen.com/) |
