@@ -389,122 +389,156 @@ Commercial and free but commercial text generators
 
 ## Art Protection
 
-+ https://glaze.cs.uchicago.edu/what-is-glaze.html
+| Name | Description | Link |
+| --- | --- | --- |
+| Glaze | Tool for protecting art from AI misuse | [Link](https://glaze.cs.uchicago.edu/what-is-glaze.html) |
 
-## Related digital tools and frameworks
-Tools that support or integrate AI into its workflow
+## Related Digital Tools and Frameworks
 
-+ Touch Designer https://derivative.ca/
-+ Vercel AI SDK https://github.com/vercel/ai
+| Name | Description | Link |
+| --- | --- | --- |
+| Touch Designer | Visual development platform | [Link](https://derivative.ca/) |
+| Vercel AI SDK | AI integration SDK | [Link](https://github.com/vercel/ai) |
 
-## Tutorials and courses
-+ https://www.deeplearning.ai
-+ https://www.pluralsight.com/ai/ai-sandboxes
+## Tutorials and Courses
+
+| Name | Description | Link |
+| --- | --- | --- |
+| DeepLearning.ai | AI and deep learning courses | [Link](https://www.deeplearning.ai) |
+| Pluralsight AI Sandboxes | AI learning platform | [Link](https://www.pluralsight.com/ai/ai-sandboxes) |
 
 ## Literature
 
-Art and AI https://ars.electronica.art/newdigitaldeal/files/2021/08/artandai.pdf
+| Name | Description | Link |
+| --- | --- | --- |
+| Art and AI | Book on art and AI | [Link](https://ars.electronica.art/newdigitaldeal/files/2021/08/artandai.pdf) |
+
+## Mags, People and Communities
+
+| Name | Description | Link |
+| --- | --- | --- |
+| 404 Media | Media platform covering technology and culture | [Link](https://www.404media.co/) |
+| Creative Applications | Platform showcasing creative uses of technology | [Link](https://www.creativeapplications.net/) |
+| Neural | Magazine focusing on new media art and technology | [Link](https://neural.it/) |
+| Hugging Face Blog | Blog covering AI and machine learning topics | [Link](https://huggingface.co/blog) |
+| Wired AI Articles | Database of Wired articles on AI | [Link](https://www.wired.com/category/artificial-intelligence/) |
 
 ## Mags, People and Communities
 Critical writings in AI and technology topics
 
-+ https://www.404media.co/
-+ https://www.creativeapplications.net/
-+ https://neural.it/
-+ https://huggingface.co/blog
-+ Wired Article Database https://www.wired.com/category/artificial-intelligence/
+| Name | Description | Link |
+| --- | --- | --- |
+| 404 Media | Media platform covering technology and culture | [Link](https://www.404media.co/) |
+| Creative Applications | Platform showcasing creative uses of technology | [Link](https://www.creativeapplications.net/) |
+| Neural | Magazine focusing on new media art and technology | [Link](https://neural.it/) |
+| Hugging Face Blog | Blog covering AI and machine learning topics | [Link](https://huggingface.co/blog) |
+| Wired AI Articles | Database of Wired articles on AI | [Link](https://www.wired.com/category/artificial-intelligence/) |
 
 ## Further Readings
-https://paperswithcode.com/
-https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
-https://www.latimes.com/projects/artificial-intelligence-generated-art-ownership-bias-dall-e-midjourney/
-https://www.theartnewspaper.com/2024/04/05/on-process-refik-anadol-seeks-to-demystify-ai-art-by-showing-how-it-is-put-together
-https://www.nngroup.com/articles/ai-paradigm/
-https://openai.com/index/video-generation-models-as-world-simulators/
-https://cacm.acm.org/research/autonomous-tools-and-design/
-https://www.noemamag.com/
+
+| Name | Description | Link |
+| --- | --- | --- |
+| Papers with Code | Open directory of machine learning papers, code, and datasets | [Link](https://paperswithcode.com/) |
+| What is ChatGPT Doing and Why Does it Work? | Article by Stephen Wolfram | [Link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) |
+| AI-Generated Art Ownership Bias | Article by LA Times | [Link](https://www.latimes.com/projects/artificial-intelligence-generated-art-ownership-bias-dall-e-midjourney/) |
+| On Process: Refik Anadol Seeks to Demystify AI Art | Article by The Art Newspaper | [Link](https://www.theartnewspaper.com/2024/04/05/on-process-refik-anadol-seeks-to-demystify-ai-art-by-showing-how-it-is-put-together) |
+| AI Paradigm | Article by NN Group | [Link](https://www.nngroup.com/articles/ai-paradigm/) |
+| Video Generation Models as World Simulators | Article by OpenAI | [Link](https://openai.com/index/video-generation-models-as-world-simulators/) |
+| Autonomous Tools and Design | Article by CACM | [Link](https://cacm.acm.org/research/autonomous-tools-and-design/) |
+| Noema Magazine | Magazine on AI and technology | [Link](https://www.noemamag.com/) |
 
 ## Videos, Podcasts, Magazines
-https://schedule.sxsw.com/2023/events/PP122773
-The art of artificial intelligence, with Eryk Salvaggio https://www.youtube.com/watch?v=AyNDi0y13Ig
-https://promptmagazine.it/copia-di-interviews
+
+| Name | Description | Link |
+| --- | --- | --- |
+| SXSW 2023 | Event schedule | [Link](https://schedule.sxsw.com/2023/events/PP122773) |
+| The Art of Artificial Intelligence | Podcast with Eryk Salvaggio | [Link](https://www.youtube.com/watch?v=AyNDi0y13Ig) |
+| Prompt Magazine | Interviews on AI | [Link](https://promptmagazine.it/copia-di-interviews) |
 
 ## AI Artists
+| Name | Description | Link |
+| --- | --- | --- |
+| Ahmed Elgammal | AI artist and researcher | |
+| Alexander Mordvintsev | Creator of DeepDream | |
+| Alexander Reben | Roboticist and artist | |
+| Anna Ridler | AI artist | [Link](https://annaridler.com/) |
+| Ben Snell | AI artist | |
+| Christian “Mio” Loclair | AI artist and choreographer | |
+| Daniel Ambrosi | AI artist | |
+| Dariusz Gross | AI artist | |
+| David Young | AI artist | |
+| Golan Levin | Artist and engineer | |
+| Gene Kogan | AI artist and researcher | |
+| Helena Sarin | AI artist | [Link](https://www.nvidia.com/en-us/research/ai-art-gallery/artists/helena-sarin/) |
+| Hito Steyerl | Artist and filmmaker | [Link](https://de.wikipedia.org/wiki/Hito_Steyerl) |
+| Holly Herndon | AI musician | [Link](https://herndondryhurst.studio/) |
+| Ian Cheng | AI artist | [Link](http://iancheng.com/) |
+| Jake Elwes | AI artist | |
+| James Bridle | Artist and writer | [Link](https://jamesbridle.com/) |
+| Jon McCormack | AI artist | |
+| Joy Buolamwini | AI researcher and activist | |
+| Lauren McCarthy | Artist and programmer | |
+| Lilla Locurto & Bill Outcault | AI artists | |
+| Lydia Kostopoulos | AI artist | |
+| Mario Klingemann | AI artist | |
+| Memo Akten | AI artist | [Link](https://www.memo.tv/) |
+| Michael Sedbon | AI artist | |
+| Mimi Onuoha | AI artist | |
+| Mike Tyka | AI artist | [Link](https://miketyka.com/) |
+| Obvious Kollektiv | AI art collective | |
+| Pindar Van Arman | AI artist | |
+| Philipp Schmitt | AI artist | |
+| Rachel Rose | AI artist | |
+| Radical Norms | AI art collective | [Link](https://radicalnorms.com/) |
+| Refik Anadol | AI artist | |
+| Robbie Barrat | AI artist | |
+| Roman Lipski | AI artist | |
+| Ross Goodwin | AI artist | |
+| Sarah Mehoyas | AI artist | |
+| Scott Eaton | AI artist | |
+| Sofia Crespo | AI artist | |
+| Sougwen Chung | AI artist | |
+| Stephanie Dinkins | AI artist | |
+| Taryn Southern | AI artist | |
+| Tega Brain | AI artist | |
+| Tom White | AI artist | |
+| Trevor Paglen | AI artist | [Link](https://paglen.studio/) |
+| Wayne McGregor | AI choreographer | | 
+| Znah | AI artist | [Link](https://znah.net/) |
 
-Mario Klingemann  
-Joy Buolamwini  
-Sougwen Chung  
-Wayne McGregor
-Tega Brain
-Stephanie Dinkins
-Refik Anadol
-Mimi Onuoha
-Golan Levin
-Lauren McCarthy
-Jon McCormack
-Taryn Southern
-Pindar Van Arman
-Scott Eaton
-Lydia Kostopoulos,
-Alexander Reben, 
-Gene Kogan, 
-Mike Tyka
-Sarah Mehoyas, 
-David Young,
-Ross Goodwin,
-Robbie Barrat,
-Tom White,
-Sofia Crespo, 
-Jake Elwes,
-Daniel Ambrosi,
-Christian “Mio” Loclair,
-Dariusz Gross,
-Ben Snell,
-Michael Sedbon,
-Roman Lipski
-Anna Ridler,
-Philipp Schmitt,
-Lilla Locurto & Bill Outcault,
-Ahmed Elgammal,
-Alexander Mordvintsev
-Rachel Rose
-Radical Norms https://radicalnorms.com/  
-Anna Ridler https://annaridler.com/  
-Memo Akten https://www.memo.tv/  
-James Bridle https://jamesbridle.com/  
-Holly Herndon https://herndondryhurst.studio/  
-Hito Steyerl https://de.wikipedia.org/wiki/Hito_Steyerl  
+ 
 
-Helena Sarin https://aiartists.org/helena-sarin  
-https://www.nvidia.com/en-us/research/ai-art-gallery/artists/helena-sarin/  
-https://www.cyberneticforests.com/  
-https://exposing.ai/  
-https://znah.net/  
-https://miketyka.com/  
-Trevor Paglen https://paglen.studio/  
-Ian Chenghttp://iancheng.com/  
-https://aixdesign.space
+## Critical AI 
 
-Obvious Kollektiv 
-+ https://www.instagram.com/jeanjacquesbalzac
-+ https://www.instagram.com/doopiidoo/
-+ https://www.instagram.com/carlosbannon/
-+ https://www.instagram.com/benny_drop
-+ https://www.instagram.com/niceaunties
-+ https://www.instagram.com/fabiocatapano/
-+ https://www.instagram.com/ai_clothingdaily
-+ https://www.instagram.com/aixdesign.co/
+| Name | Description | Link |
+| --- | --- | --- |
+| Cybernetic Forests | AI art collective | [Link](https://www.cyberneticforests.com/) |
+| Exposing AI | AI art project | [Link](https://exposing.ai/) |
+
 
 ## AI Influencers & Agencies
 
-+ https://www.instagram.com/lilmiquela
-+ https://www.instagram.com/theclueless.ai
-+ https://www.instagram.com/limaiaaa/
-+ https://www.theclueless.ai/models
-+ https://www.instagram.com/fit_aitana/
-+ https://www.instagram.com/fashionweek.ai/
+| Name | Description | Link |
+| --- | --- | --- |
+| AI Clothing Daily | AI fashion influencer | [Link](https://www.instagram.com/ai_clothingdaily) |
+| AIX Design | AI design influencer | [Link](https://www.instagram.com/aixdesign.co/) |
+| Benny Drop | AI influencer | [Link](https://www.instagram.com/benny_drop) |
+| Carlos Bannon | AI influencer | [Link](https://www.instagram.com/carlosbannon/) |
+| Doopiidoo | AI influencer | [Link](https://www.instagram.com/doopiidoo/) |
+| Fabio Catapano | AI influencer | [Link](https://www.instagram.com/fabiocatapano/) |
+| Fashion Week AI | AI fashion influencer | [Link](https://www.instagram.com/fashionweek.ai/) |
+| Fit Aitana | AI fitness influencer | [Link](https://www.instagram.com/fit_aitana/) |
+| Jean Jacques Balzac | AI influencer | [Link](https://www.instagram.com/jeanjacquesbalzac) |
+| Limaiaaa | AI influencer | [Link](https://www.instagram.com/limaiaaa/) |
+| Lil Miquela | Virtual influencer | [Link](https://www.instagram.com/lilmiquela) |
+| Nice Aunties | AI influencer | [Link](https://www.instagram.com/niceaunties) |
+| The Clueless AI | AI models and influencers | [Link](https://www.instagram.com/theclueless.ai) |
+| The Clueless AI Models | AI model agency | [Link](https://www.theclueless.ai/models) |
 
 ## Links
-+ https://github.com/steven2358/awesome-generative-ai
+
+| Name | Description | Link |
+| --- | --- | --- |
+| Awesome Generative AI | Curated list of generative AI resources | [Link](https://github.com/steven2358/awesome-generative-ai) |
 
 
