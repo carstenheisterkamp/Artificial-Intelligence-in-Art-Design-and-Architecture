@@ -19,6 +19,7 @@ Not all of the tools have been tested, use at your own risk.
 | Civit AI                | A cloud-based AI platform that provides access to a variety of AI tools and services.                              | [Link](https://civitai.com/)  |
 | Cohere                  | Enables developers and enterprises to build LLM-powered applications with a focus on ease-of-use and data privacy. | [Link](https://cohere.com/) |
 | Eleuther                | Empowering Open-Source Artificial Intelligence Research.                                                           | [Link](https://www.eleuther.ai/) | 
+| Fal.AI                  | Plaform to run AI models in the cloud                                                                              | [Link](https://fal.ai/) |
 | Fireworks               | A cloud-based platform for building and deploying pplications.                                                     | [Link](https://fireworks.ai/)  |
 | Flux                    | Julia Math, Machine learning stack.                                                                                | [Link](https://fluxml.ai/)|
 | Google AI               | Focuses on conducting research to advance AI and developing tools for real-world applications.                     | [Link](https://ai.google/) |
@@ -38,6 +39,7 @@ Not all of the tools have been tested, use at your own risk.
 | Mindverse               | AI Platform forcopywriting, research, image generation and productivity                                            | [Link](https://www.mind-verse.de/) |
 | Mistral                 | A cloud-based platform for training and deploying AI models.                                                       | [Link](https://mistral.ai/)|
 | Ml5                     | ML JavaScript library for p5js                                                                                     | [Link](https://github.com/ml5js/ml5-library)
+| Mystic AI               | Platform to run AI models in the cloud                                                                             | [Link](https://www.mystic.ai/) |
 | Nvidia AI               | A comprehensive suite of AI  and resources, including GPUs, software, and training platforms.                      | [Link](https://www.nvidia.com/en-us/ai-data-science/) |
 | OpenAI                  | An AI research lab known for advanced language models like GPT-3.                                                  | [Link](https://openai.com/)|
 | Paperspace              | A cloud-based platform for training and deploying machine learning models.                                         | [Link](https://www.paperspace.com/) |
@@ -52,6 +54,7 @@ Not all of the tools have been tested, use at your own risk.
 ## Selected Models
 | Model | Description | Link |
 |---|---|---|
+| Black Forest flux| 12 billion parameter Text-to-image Model |[https://huggingface.co/black-forest-labs](https://huggingface.co/black-forest-labs)|
 | GitHub Model Zoo | A collection of pre-trained models for various tasks | [Link](https://github.com/BVLC/caffe/wiki/Model-Zoo) |
 | Huggingface architecturerealmix | Realistic architecture image renderings | [Link](https://huggingface.co/stablediffusionapi/architecturerealmix) |
 | Huggingface designgen-23k-25k | Text-to-image diffusion model | [Link](https://huggingface.co/ahmed-naseer/designgen-23k-25k) |
